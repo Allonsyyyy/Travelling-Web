@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="vi">
 
 <head>
   <meta charset="UTF-8">
@@ -7,8 +7,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tourest - Explore the World</title>
 
-  <link rel="stylesheet" href="../css/style.css">
+  <!-- 
+    - favicon
+  -->
+  <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml">
 
+  <!-- 
+    - custom css link
+  -->
+  <link rel="stylesheet" href="./assets/css/style.css">
 
   <!-- 
     - google font link
@@ -44,32 +51,34 @@
         <ul class="navbar-list">
 
           <li>
-            <a href="./index.html" class="navbar-link">Trang chủ</a>
+            <a href="#" class="navbar-link">Trang chủ</a>
           </li>
 
           <li>
-            <a href="./aboutUs.html" class="navbar-link">Giới thiệu</a>
+            <a href="#" class="navbar-link">Giới thiệu</a>
           </li>
 
           <li>
-            <a href="./tours.html" class="navbar-link">Tours</a>
+            <a href="#" class="navbar-link">Tours</a>
           </li>
 
           <li>
-            <a href="./destinations.html" class="navbar-link">Điểm đến</a>
+            <a href="#" class="navbar-link">Địa điểm</a>
           </li>
 
           <li>
-            <a href="./blog.html" class="navbar-link">Blog</a>
+            <a href="#" class="navbar-link">Blog</a>
           </li>
 
           <li>
-            <a href="./contactUs.html" class="navbar-link">Liên hệ</a>
+            <a href="#" class="navbar-link">Liên hệ</a>
           </li>
 
         </ul>
 
-        <a href="#" class="btn btn-secondary">Đặt tour</a>
+        <a href="#" class="btn btn-secondary">Đăng nhập</a>
+
+        <a href="#" class="btn btn-primary">Đăng ký</a>
 
       </nav>
 
@@ -87,303 +96,13 @@
         - #HERO
       -->
 
-      <section class="section hero"
-        style="background-image: url('./assets/images/hero-bg-bottom.png') url('./assets/images/hero-bg-top.png')">
-        <div class="container">
-
-          <img src="../image/shape-1.png" width="61" height="61" alt="Vector Shape" class="shape shape-1">
-
-          <img src="../image/shape-2.png" width="56" height="74" alt="Vector Shape" class="shape shape-2">
-
-          <img src="../image/shape-3.png" width="57" height="72" alt="Vector Shape" class="shape shape-3">
-
-          <div class="hero-content">
-
-            <p class="section-subtitle">Explore Your Travel</p>
-
-            <h2 class="hero-title">Trusted Travel Agency</h2>
-
-            <p class="hero-text">
-              I travel not to go anywhere, but to go. I travel for travel's sake the great affair is to move.
-            </p>
-
-            <div class="btn-group">
-              <a href="./contactUs.html" class="btn btn-primary">Contact Us</a>
-
-              <a href="./aboutUs.html" class="btn btn-outline">Learn More</a>
-            </div>
-
-          </div>
-
-          <figure class="hero-banner">
-            <img src="../image/hero-banner.jpg" width="686" height="812" loading="lazy" alt="hero banner"
-              class="w-100">
-          </figure>
-
-        </div>
-      </section>
-
-
-
-
-
       <!-- 
         - #DESTINATION
       -->
 
-      <section class="section destination">
-        <div class="container">
-
-          <p class="section-subtitle">Điểm đến</p>
-
-          <h2 class="h2 section-title">Chọn điểm đến của bạn</h2>
-
-          <ul class="destination-list">
-
-            <li class="w-50">
-              <a href="#" class="destination-card">
-
-                <figure class="card-banner">
-                  <img src="../image/Des - Nha Trang.jpg" width="1140" height="1100" loading="lazy"
-                    alt="Malé, Maldives" class="img-cover">
-                </figure>
-
-                <div class="card-content">
-                  <p class="card-subtitle">Nha Trang</p>
-
-                  <h3 class="h3 card-title">Khánh Hòa</h3>
-                </div>
-
-              </a>
-            </li>
-
-            <li class="w-50">
-              <a href="#" class="destination-card">
-
-                <figure class="card-banner">
-                  <img src="../image/Des- Đà Lạt.jpg" width="1140" height="1100" loading="lazy"
-                    alt="Bangkok, Thailand" class="img-cover">
-                </figure>
-
-                <div class="card-content">
-                  <p class="card-subtitle">Đà Lạt</p>
-
-                  <h3 class="h3 card-title">Lâm Đồng</h3>
-                </div>
-
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="destination-card">
-
-                <figure class="card-banner">
-                  <img src="../image/Des- Sầm Sơn.jpg" width="1110" height="480" loading="lazy"
-                    alt="Kuala Lumpur, Malaysia" class="img-cover">
-                </figure>
-
-                <div class="card-content">
-                  <p class="card-subtitle">Sầm Sơn</p>
-
-                  <h3 class="h3 card-title">Thanh Hóa</h3>
-                </div>
-
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="destination-card">
-
-                <figure class="card-banner">
-                  <img src="../image/Des - Phan Thiết.jpg" width="1110" height="480" loading="lazy"
-                    alt="Kathmandu, Nepal" class="img-cover">
-                </figure>
-
-                <div class="card-content">
-                  <p class="card-subtitle">Phan Thiết</p>
-
-                  <h3 class="h3 card-title">Bình Thuận</h3>
-                </div>
-
-              </a>
-            </li>
-
-            <li>
-              <a href="#" class="destination-card">
-
-                <figure class="card-banner">
-                  <img src="../image/Des - Sa Pa.jpg" width="1110" height="480" loading="lazy"
-                    alt="Jakarta, Indonesia" class="img-cover">
-                </figure>
-
-                <div class="card-content">
-                  <p class="card-subtitle">Sa Pa</p>
-
-                  <h3 class="h3 card-title">Lào Cai</h3>
-                </div>
-
-              </a>
-            </li>
-
-          </ul>
-
-        </div>
-      </section>
-
-
-
-
-
       <!-- 
         - #POPULAR
       -->
-
-      <section class="section popular">
-        <div class="container">
-
-          <p class="section-subtitle">Tours</p>
-
-          <h2 class="h2 section-title">Những tour phổ biến nhất</h2>
-
-          <ul class="popular-list">
-
-            <li>
-              <div class="popular-card">
-
-                <figure class="card-banner">
-                  <a href="#">
-                    <img src="../image/Tour - Phú Quốc.jpg" width="740" height="518" loading="lazy"
-                      alt="Phu Quoc, Kien Giang" class="img-cover">
-                  </a>
-
-                  <span class="card-badge">
-                    <ion-icon name="time-outline"></ion-icon>
-
-                    <time datetime="P12D">12 ngày</time>
-                  </span>
-                </figure>
-
-                <div class="card-content">
-
-                  <div class="card-wrapper">
-                    <div class="card-price">Từ 5.000.000 VND</div>
-
-                    <div class="card-rating">
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star-outline"></ion-icon>
-
-                      <data value="2">(2)</data>
-                    </div>
-                  </div>
-
-                  <h3 class="card-title">
-                    <a href="#">A good traveler has no fixed plans and is not intent on arriving.</a>
-                  </h3>
-
-                  <address class="card-location">Phú Quốc, Kiên Giang</address>
-
-                </div>
-
-              </div>
-            </li>
-
-            <li>
-              <div class="popular-card">
-
-                <figure class="card-banner">
-                  <a href="#">
-                    <img src="../image/Tour - Vũng Tàu.jpg" width="740" height="518" loading="lazy"
-                      alt="Vung Tau" class="img-cover">
-                  </a>
-
-                  <span class="card-badge">
-                    <ion-icon name="time-outline"></ion-icon>
-
-                    <time datetime="P12D">12 ngày</time>
-                  </span>
-                </figure>
-
-                <div class="card-content">
-
-                  <div class="card-wrapper">
-                    <div class="card-price">Từ 5.000.000 VND</div>
-
-                    <div class="card-rating">
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star-outline"></ion-icon>
-
-                      <data value="2">(2)</data>
-                    </div>
-                  </div>
-
-                  <h3 class="card-title">
-                    <a href="#">A good traveler has no fixed plans and is not intent on arriving.</a>
-                  </h3>
-
-                  <address class="card-location">Vũng Tàu, Bà Rịa - Vũng Tàu</address>
-
-                </div>
-
-              </div>
-            </li>
-
-            <li>
-              <div class="popular-card">
-
-                <figure class="card-banner">
-                  <a href="#">
-                    <img src="../image/Tour - Chợ nổi Cái Răng.jpg" width="740" height="518" loading="lazy"
-                      alt="Cho noi" class="img-cover">
-                  </a>
-
-                  <span class="card-badge">
-                    <ion-icon name="time-outline"></ion-icon>
-
-                    <time datetime="P12D">12 ngày</time>
-                  </span>
-                </figure>
-
-                <div class="card-content">
-
-                  <div class="card-wrapper">
-                    <div class="card-price">Từ 5.000.000 VND</div>
-
-                    <div class="card-rating">
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star"></ion-icon>
-                      <ion-icon name="star-outline"></ion-icon>
-
-                      <data value="2">(2)</data>
-                    </div>
-                  </div>
-
-                  <h3 class="card-title">
-                    <a href="#">A good traveler has no fixed plans and is not intent on arriving.</a>
-                  </h3>
-
-                  <address class="card-location">Chợ nổi Cái Răng, Cần Thơ</address>
-
-                </div>
-
-              </div>
-            </li>
-
-          </ul>
-
-        </div>
-      </section>
-
-
-
-
 
       <!-- 
         - #ABOUT
@@ -396,7 +115,7 @@
 
             <p class="section-subtitle">Giới thiệu</p>
 
-            <h2 class="h2 section-title">Explore all tour of the world with us.</h2>
+            <h2 class="h2 section-title">Trải nghiệm các tour du lịch ở Việt Nam cùng với chúng tôi</h2>
 
             <p class="about-text">
               Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or
@@ -413,7 +132,7 @@
                 </div>
 
                 <div class="about-item-content">
-                  <h3 class="h3 about-item-title">Tour guide</h3>
+                  <h3 class="h3 about-item-title">Hướng dẫn viên</h3>
 
                   <p class="about-item-text">
                     Lorem Ipsum available, but the majority have suffered alteration in some.
@@ -429,7 +148,7 @@
                 </div>
 
                 <div class="about-item-content">
-                  <h3 class="h3 about-item-title">Friendly price</h3>
+                  <h3 class="h3 about-item-title">Giá cả hợp lý</h3>
 
                   <p class="about-item-text">
                     Lorem Ipsum available, but the majority have suffered alteration in some.
@@ -445,7 +164,7 @@
                 </div>
 
                 <div class="about-item-content">
-                  <h3 class="h3 about-item-title">Reliable tour</h3>
+                  <h3 class="h3 about-item-title">Tour du lịch đảm bảo</h3>
 
                   <p class="about-item-text">
                     Lorem Ipsum available, but the majority have suffered alteration in some.
@@ -456,12 +175,12 @@
 
             </ul>
 
-            <a href="#" class="btn btn-primary">Đặt tour</a>
+            <a href="#" class="btn btn-primary">Đặt vé ngay</a>
 
           </div>
 
           <figure class="about-banner">
-            <img src="../image/about-banner.jpg" width="756" height="842" loading="lazy" alt="" class="w-100">
+            <img src="./assets/images/about-banner.png" width="756" height="842" loading="lazy" alt="" class="w-100">
           </figure>
 
         </div>
@@ -474,191 +193,6 @@
       <!-- 
         - #BLOG
       -->
-
-      <section class="section blog">
-        <div class="container">
-
-          <p class="section-subtitle">Blog</p>
-
-          <h2 class="h2 section-title">Các bài viết mới nhất</h2>
-
-          <ul class="blog-list">
-
-            <li>
-              <div class="blog-card">
-
-                <figure class="card-banner">
-
-                  <a href="#">
-                    <img src="../image/Blog - Đà Lạt.jpg" width="740" height="518" loading="lazy"
-                      alt="A good traveler has no fixed plans and is not intent on arriving." class="img-cover">
-                  </a>
-
-                  <span class="card-badge">
-                    <ion-icon name="time-outline"></ion-icon>
-
-                    <time datetime="12-04">04 Dec</time>
-                  </span>
-
-                </figure>
-
-                <div class="card-content">
-
-                  <div class="card-wrapper">
-
-                    <div class="author-wrapper">
-                      <figure class="author-avatar">
-                        <img src="../image/author.jpg" width="30" height="30" alt="Jony bristow">
-                      </figure>
-
-                      <div>
-                        <a href="#" class="author-name">Đà Lạt</a>
-
-                        <p class="author-title">Admin</p>
-                      </div>
-                    </div>
-
-                    <time class="publish-time" datetime="10:30">10:30 AM</time>
-
-                  </div>
-
-                  <h3 class="card-title">
-                    <a href="#">
-                      A good traveler has no fixed plans and is not intent on arriving.
-                    </a>
-                  </h3>
-
-                  <a href="#" class="btn-link">
-                    <span>Read More</span>
-
-                    <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
-                  </a>
-
-                </div>
-
-              </div>
-            </li>
-
-            <li>
-              <div class="blog-card">
-
-                <figure class="card-banner">
-
-                  <a href="#">
-                    <img src="../image/Blog - Huế.jpg" width="740" height="518" loading="lazy"
-                      alt="A good traveler has no fixed plans and is not intent on arriving." class="img-cover">
-                  </a>
-
-                  <span class="card-badge">
-                    <ion-icon name="time-outline"></ion-icon>
-
-                    <time datetime="12-04">04 Dec</time>
-                  </span>
-
-                </figure>
-
-                <div class="card-content">
-
-                  <div class="card-wrapper">
-
-                    <div class="author-wrapper">
-                      <figure class="author-avatar">
-                        <img src="../image/author.jpg" width="30" height="30" alt="Jony bristow">
-                      </figure>
-
-                      <div>
-                        <a href="#" class="author-name">Huế</a>
-
-                        <p class="author-title">Admin</p>
-                      </div>
-                    </div>
-
-                    <time class="publish-time" datetime="10:30">10:30 AM</time>
-
-                  </div>
-
-                  <h3 class="card-title">
-                    <a href="#">
-                      A good traveler has no fixed plans and is not intent on arriving.
-                    </a>
-                  </h3>
-
-                  <a href="#" class="btn-link">
-                    <span>Read More</span>
-
-                    <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
-                  </a>
-
-                </div>
-
-              </div>
-            </li>
-
-            <li>
-              <div class="blog-card">
-
-                <figure class="card-banner">
-
-                  <a href="#">
-                    <img src="../image/Blog - Hà Nội.jpg" width="740" height="518" loading="lazy"
-                      alt="A good traveler has no fixed plans and is not intent on arriving." class="img-cover">
-                  </a>
-
-                  <span class="card-badge">
-                    <ion-icon name="time-outline"></ion-icon>
-
-                    <time datetime="12-04">04 Dec</time>
-                  </span>
-
-                </figure>
-
-                <div class="card-content">
-
-                  <div class="card-wrapper">
-
-                    <div class="author-wrapper">
-                      <figure class="author-avatar">
-                        <img src="../image/author.jpg" width="30" height="30" alt="Jony bristow">
-                      </figure>
-
-                      <div>
-                        <a href="#" class="author-name">Hà Nội</a>
-
-                        <p class="author-title">Admin</p>
-                      </div>
-                    </div>
-
-                    <time class="publish-time" datetime="10:30">10:30 AM</time>
-
-                  </div>
-
-                  <h3 class="card-title">
-                    <a href="#">
-                      A good traveler has no fixed plans and is not intent on arriving.
-                    </a>
-                  </h3>
-
-                  <a href="#" class="btn-link">
-                    <span>Read More</span>
-
-                    <ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
-                  </a>
-
-                </div>
-
-              </div>
-            </li>
-
-          </ul>
-
-        </div>
-      </section>
-
-    </article>
-  </main>
-
-
-
 
 
   <!-- 
@@ -673,7 +207,7 @@
         <ul class="footer-list">
 
           <li>
-            <p class="footer-list-title">Những điểm đến nổi tiếng</p>
+            <p class="footer-list-title">Địa điểm hàng đầu</p>
           </li>
 
           <li>
@@ -681,19 +215,19 @@
           </li>
 
           <li>
-            <a href="#" class="footer-link">Huế</a>
+            <a href="#" class="footer-link">TP Hồ Chí Minh</a>
           </li>
 
           <li>
-            <a href="#" class="footer-link">Đà Lạt</a>
+            <a href="#" class="footer-link">Cao Bằng</a>
+          </li>
+
+          <li>
+            <a href="#" class="footer-link">Nha Trang</a>
           </li>
 
           <li>
             <a href="#" class="footer-link">Quảng Ninh</a>
-          </li>
-
-          <li>
-            <a href="#" class="footer-link">Hải Phòng</a>
           </li>
 
         </ul>
@@ -709,7 +243,7 @@
           </li>
 
           <li>
-            <a href="#" class="footer-link">Phong cách sống</a>
+            <a href="#" class="footer-link">Đời sống</a>
           </li>
 
           <li>
@@ -721,7 +255,7 @@
           </li>
 
           <li>
-            <a href="#" class="footer-link">Ẩm thực</a>
+            <a href="#" class="footer-link">Đồ ăn & Thức uống</a>
           </li>
 
         </ul>
@@ -729,41 +263,43 @@
         <ul class="footer-list">
 
           <li>
-            <p class="footer-list-title">Quick links</p>
+            <p class="footer-list-title">Truy cập nhanh</p>
           </li>
 
           <li>
-            <a href="./aboutUs.html" class="footer-link">Giới thiệu</a>
+            <a href="#" class="footer-link">Giới thiệu</a>
           </li>
 
           <li>
-            <a href="./contactUs.html" class="footer-link">Liên hệ</a>
+            <a href="#" class="footer-link">Liên lạc</a>
           </li>
 
           <li>
-            <a href="./tours.html" class="footer-link">Tours</a>
+            <a href="#" class="footer-link">Tours</a>
           </li>
 
           <li>
-            <a href="#" class="footer-link">Booking</a>
+            <a href="#" class="footer-link">Đặt vé</a>
           </li>
 
-          
+          <li>
+            <a href="#" class="footer-link">Điều khoản dịch vụ</a>
+          </li>
 
         </ul>
 
         <div class="footer-list">
 
-          <p class="footer-list-title">Thêm thông tin</p>
+          <p class="footer-list-title">Nhận thư báo</p>
 
           <p class="newsletter-text">
-            Để biết thêm thông tin mới nhất về địa điểm du lịch cũng như tours, vui lòng để lại email liên hệ
+            Để biết những ưu đãi và mẹo mới nhất, đừng đi đâu xa, chỉ cần đăng ký nhận email của chúng tôi!
           </p>
 
           <form action="" class="newsletter-form">
-            <input type="email" name="email" required placeholder="Email address" class="newsletter-input">
+            <input type="email" name="email" required placeholder="Địa chỉ email" class="newsletter-input">
 
-            <button type="submit" class="btn btn-primary">Subscribe</button>
+            <button type="submit" class="btn btn-primary">Đăng ký</button>
           </form>
 
         </div>
@@ -774,7 +310,9 @@
 
         <a href="#" class="logo">Tourest</a>
 
-    
+        <p class="copyright">
+          &copy; 2022 <a href="#" class="copyright-link">codewithsadee</a>. All Rights Reserved
+        </p>
 
         <ul class="social-list">
 
@@ -834,7 +372,7 @@
   <!-- 
     - custom js link
   -->
-  <script src="../js/script.js"></script>
+  <script src="./assets/js/script.js"></script>
 
   <!-- 
     - ionicon link
