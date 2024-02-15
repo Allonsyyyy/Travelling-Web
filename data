@@ -1,1 +1,152 @@
-
+[
+    {
+        "id": 1,
+        "time": 12,
+        "img": "../images/quangtruongbadinh-langBac.jpg",
+        "name": "Quảng trường Ba Đình – Lăng Bác",
+        "address": "Hà Nội",
+        "price": "$50.00",
+        "rate": 5,
+        "description": "Quảng trường Ba Đình là một quảng trường lớn nằm ở trung tâm Hà Nội, Việt Nam. Nơi đây, 78 năm về trước đã chứng kiến giờ phút lịch sử trọng đại của dân tộc - Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời trịnh trọng đọc Bản Tuyên ngôn Độc lập, tuyên bố trước toàn thể quốc dân và nhân dân thế giới: Nước Việt Nam Dân chủ Cộng hòa ra đời. "
+    },
+    {
+        "id": 2,
+        "time": 1,
+        "img": "../images/grandWorld.jpg",
+        "name": "Mega Grand World",
+        "address": "Hưng Yên",
+        "price": "$48.00",
+        "rate": 5,
+        "description": "Mega Grand World Hà Nội là phân khu shophouse thuộc dự án đại đô thị Vinhomes Ocean Park 3 – The Crown tại huyện Văn Giang, Hưng Yên. Tọa lạc tại vị trí đắc địa, kết nối 2 dự án đô thị biển Vinhomes Ocean Park 2 và Vinhomes Ocean Park 3, phân khu Mega Grand World Hà Nội với 800 căn shophouse hứa hẹn sẽ mang đến những trải nghiệm sống và nghỉ dưỡng khác biệt tại phía Đông Hà Nội."
+    },
+    {   
+        "id": 3,
+        "time": 7,
+        "img": "../images/nhathoducba.jpg",
+        "name": "Nhà Thờ Đức Bà",
+        "address": "TP Hồ Chí Minh",
+        "price": "$45.00",
+        "rate": 5,
+        "description":"Được ví như biểu tượng của thành phố Hồ Chí Minh, nhà thờ Đức Bà là một trong những công trình kiến trúc độc đáo của Sài Gòn. Trải qua nhiều năm đón gió, phơi sương, nơi đây vẫn giữ nguyên nét kiến trúc cổ kính và ấn tượng như thuở ban đầu."
+    },
+    {   
+        "id": 4,
+        "time": 2,
+        "img": "../images/codohue.jpg",
+        "name": "Cố Đô Huế",
+        "address": "Huế",
+        "price": "1000000",
+        "rate": 4,
+        "description": "Cố đô Huế nằm ngay cạnh dòng sông Hương tĩnh lặng, được triều đình nhà Nguyễn xây dựng từ những năm của thế kỷ 19. Tới ngày nay dù đã trải qua rất nhiều sự kiện lịch sử, Cố đô vẫn là một biểu tượng của nét đẹp cổ kính, bình yên của xứ Huế. "
+    },
+    {   
+        "id": 5,
+        "time": 3,
+        "img": "../images/daophuquoc.jpg",
+        "name": "Đảo Phú Quốc",
+        "address": "Kiên Giang",
+        "price": "1000000",
+        "rate": 4,
+        "description": "Phú Quốc là một hòn đảo nằm ở Cực Nam của Việt Nam, địa giới hành chính thuộc tỉnh Kiên Giang, nằm trong Vịnh Thái Lan. Từ lâu, Phú Quốc được biết đến là một trong những địa điểm du lịch nổi tiếng ở miền Nam Việt Nam mà bất kì du khách nào cũng nên ghé thăm."
+    },
+    {   
+        "id": 6,
+        "time": 5,
+        "img": "../images/nhatrang.jpg",
+        "name": "Biển Nha Trang",
+        "address": "Nha Trang",
+        "price": "1000000",
+        "rate": 4,
+        "description": "Nha Trang là một thành phố ven biển và là trung tâm chính trị, kinh tế, văn hóa, khoa học kỹ thuật và du lịch của tỉnh Khánh Hòa, Việt Nam."
+    },
+    {   
+        "id": 7,
+        "time": 9,
+        "img": "../images/chonoi.jpg",
+        "name": "Chợ Nổi Cái Răng",
+        "address": "Cần Thơ",
+        "price": "$20.00",
+        "rate": 4,
+        "description": "Chợ nổi Cái Răng là loại hình chợ độc đáo và đặc trưng của vùng đồng bằng sông Cửu Long mà không nơi nào trên đất nước Việt Nam có được. Và đây cũng là khu chợ tiêu biểu, sầm uất, nổi tiếng nhất cho nét văn hóa sông nước miền Tây."
+    },
+    {   
+        "id": 8,
+        "time": 6,
+        "img": "../images/hoguom.jpg",
+        "name": "Hồ Gươm",
+        "address": "Hà Nội",
+        "price": "$15.00",
+        "rate": 4,
+        "description": "Hồ Hoàn Kiếm/Hồ Gươm tọa lạc giữa trung tâm thành phố Hà Nội là điểm đến thu hút đông đảo người dân, du khách ghé thăm, thưởng ngoạn khung cảnh thiên nhiên tuyệt đẹp và kết hợp vui chơi, ăn uống."
+    },
+    {   
+        "id": 9,
+        "time": 12,
+        "img": "../images/vungtau.jpg",
+        "name": "Vũng Tàu",
+        "address": "Vũng Tàu",
+        "price": "$15.00",
+        "rate": 4,
+        "description": "Vũng Tàu từ lâu đã được xem là một điểm đến du lịch hấp dẫn, bởi những vẻ đẹp tự nhiên của mình. Dù đến bất cứ đâu trong chuyến du lịch Vũng Tàu, du khách cũng sẽ bị cuốn hút bởi phong cảnh của nơi đây."
+    },
+    {   
+        "id": 10,
+        "time": 8,
+        "img": "../images/buonmathuot.jpg",
+        "name": "Buôn Ma Thuột",
+        "address": "Đắk Lắk",
+        "price": "$40.00",
+        "rate": 4,
+        "description": "Là thành phố lớn nhất Đăk Lăk, Buôn Ma Thuột mang vẻ đẹp đặc trưng của Tây Nguyên, giao thông thuận tiện và có nhiều điểm tham quan du lịch độc đáo, xứ sở cà phê thu hút du khách lên đường khám phá."
+    },
+    {   
+        "id": 11,
+        "time": 10,
+        "img": "../images/sapa.jpg",
+        "name": "Sa Pa",
+        "address": "Lào Cai",
+        "price": "$30.00",
+        "rate": 5,
+        "description": "Nằm dưới chân dãy Hoàng Liên Sơn hùng vĩ và chỉ cách Hà Nội 5 - 6 giờ di chuyển bằng đường cao tốc, Sa Pa là điểm đến lý tưởng quanh năm. Ngoài những thửa ruộng bậc thang vào mùa lúa chín, Sa Pa còn hút khách nhờ vẻ đẹp của nhiều điểm đến khác."
+    },
+    {   
+        "id": 12,
+        "time": 11,
+        "img": "../images/dalat.jpg",
+        "name": "Đà Lạt",
+        "address": "Lâm Đồng",
+        "price": "$40.00",
+        "rate": 4,
+        "description":"Với nhiều cảnh đẹp tự nhiên và văn hóa, con người, đặc sản độc đáo, Đà Lạt không chỉ là 1 điểm đến du lịch hấp dẫn mà còn là một nơi để bạn thả mình, thư giãn và tìm lại sự cân bằng trong cuộc sống. Hãy gạt bỏ những áp lực hàng ngày và đặt chân đến Đà Lạt và tận hưởng những trải nghiệm tuyệt vời nơi 'thành phố mù sương'."
+    },
+    {   
+        "id": 13,
+        "time": 8,
+        "img": "../images/thacbanGioc.jpg",
+        "name": "Thác Bản Giốc",
+        "address": "Cao Bằng",
+        "price": "$40.00",
+        "rate": 4,
+        "description":"Thác Bản Giốc là một trong những thác nước nổi tiếng không chỉ ở nước ta mà còn được bạn bè quốc tế biết đến. Nằm trong top 4 thác nước xuyên quốc gia lớn nhất trên toàn thế giới, địa điểm này ngày càng thu hút được rất nhiều khách du lịch Cao Bằng đến chiêm ngưỡng."
+    },
+    {   
+        "id": 14,
+        "time": 10,
+        "img": "../images/cualo.jpg",
+        "name": "Biển Cửa Lò",
+        "address": "Nghệ An",
+        "price": "$30.00",
+        "rate": 3,
+        "description": "Cửa Lò là một điểm đến du lịch không thể bỏ qua khi đến với Nghệ An. Nằm bên bờ biển Trung Bộ, du lịch Cửa Lò mang đến một kết hợp hoàn hảo giữa cảnh quan thiên nhiên tuyệt đẹp và sự phát triển văn hóa đặc trưng của vùng duyên hải."
+    },
+    {   
+        "id": 15,
+        "time": 11,
+        "img": "../images/vinhhalong.jpg",
+        "name": "Vịnh Hạ Long",
+        "address": "Quảng Ninh",
+        "price": "$40.00",
+        "rate": 4,
+        "description": "Vịnh Hạ Long được Unesco nhiều lần công nhận là Di sản thiên nhiên của Thế giới với hàng nghìn hòn đảo được làm nên bởi tạo hoá kỳ vĩ và sống động. Vịnh Hạ Long có phong cảnh tuyệt đẹp nên nơi đây là một điểm du lịch rất hấp dẫn với du khách trong nước và quốc tế."
+    }
+]
