@@ -1,126 +1,14 @@
-data = [
-    {
-        "time": 12,
-        "img": "../images/quangtruongbadinh-langBac.jpg",
-        "name": "Quảng trường Ba Đình – Lăng Bác",
-        "address": "Hà Nội",
-        "price": "$50.00",
-        "rate": 5,
-    },
-    {
-        "time": 1,
-        "img": "../images/grandWorld.jpg",
-        "name": "Mega Grand World",
-        "address": "Hưng Yên",
-        "price": "$48.00",
-        "rate": "5",
-    },
-    {
-        "time": 7,
-        "img": "../images/nhathoducba.jpg",
-        "name": "Nhà Thờ Đức Bà",
-        "address": "TP Hồ Chí Minh",
-        "price": "$45.00",
-        "rate": "5",
-    },
-    {
-        "time": 2,
-        "img": "../images/codohue.jpg",
-        "name": "Cố Đô Huế",
-        "address": "Huế",
-        "price": "1000000",
-        "rate": "4",
-    },
-    {
-        "time": 3,
-        "img": "../images/daophuquoc.jpg",
-        "name": "Đảo Phú Quốc",
-        "address": "Kiên Giang",
-        "price": "1000000",
-        "rate": "4",
-    },
-    {
-        "time": 5,
-        "img": "../images/nhatrang.jpg",
-        "name": "Biển Nha Trang",
-        "address": "Nha Trang",
-        "price": "1000000",
-        "rate": "4",
-    },    
-    
-    {
-        "time": 9,
-        "img": "../images/chonoi.jpg",
-        "name": "Chợ Nổi Cái Răng",
-        "address": "Cần Thơ",
-        "price": "$20.00",
-        "rate": "4",
-    },
-    {
-        "time": 6,
-        "img": "../images/hoguom.jpg",
-        "name": "Hồ Gươm",
-        "address": "Hà Nội",
-        "price": "$15.00",
-        "rate": "4",
-    },
-    {
-        "time": 12,
-        "img": "../images/vungtau.jpg",
-        "name": "Vũng Tàu",
-        "address": "Vũng Tàu",
-        "price": "$15.00",
-        "rate": "4",
-    },
-    {
-        "time": 8,
-        "img": "../images/buonmathuot.jpg",
-        "name": "Buôn Ma Thuột",
-        "address": "Đắk Lắk",
-        "price": "$40.00",
-        "rate": 4,
-    },
-    {
-        "time": 10,
-        "img": "../images/sapa.jpg",
-        "name": "Sa Pa",
-        "address": "Lào Cai",
-        "price": "$30.00",
-        "rate": "5",
-    },
-    {
-        "time": 11,
-        "img": "../images/dalat.jpg",
-        "name": "Đà Lạt",
-        "address": "Lâm Đồng",
-        "price": "$40.00",
-        "rate": "4",
-    },
-    {
-        "time": 8,
-        "img": "../images/thacbanGioc.jpg",
-        "name": "Thác Bản Giốc",
-        "address": "Cao Bằng",
-        "price": "$40.00",
-        "rate": 4,
-    },
-    {
-        "time": 10,
-        "img": "../images/cualo.jpg",
-        "name": "Biển Cửa Lò",
-        "address": "Nghệ An",
-        "price": "$30.00",
-        "rate": "3",
-    },
-    {
-        "time": 11,
-        "img": "../images/vinhhalong.jpg",
-        "name": "Vịnh Hạ Long",
-        "address": "Quảng Ninh",
-        "price": "$40.00",
-        "rate": "4",
-    },
-]
+let data = null;
+
+const fetchData = (jsonData) => {
+    data = jsonData;
+    addElement(data.slice(0, currentLoad));
+}
+
+fetch('../data/des.json')
+    .then((response) => response.json())
+    .then((json) => {fetchData(json);});
+
 
 const removeExistAnimation = () => {
     CardAnimation = document.getElementsByClassName('card-animation');
@@ -146,30 +34,28 @@ const addElement = (data) => {
 
     data.forEach(element => {
         html += `
-            <li class="card-animation" >
-                <a href="#" class="destination-card" >
-                    <div class="card-top">
-                    <div class="card-time">
-                        <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.5-13H11v6l5.2 3.2.8-1.3-4.5-2.7V7z"></path></svg>
-                        <p> ${element.time} Days </p>
-                    </div>
-                    <figure class="card-banner">
-                        <img src="${element.img}" width="1140" height="1100" loading="lazy" alt="Malé, Maldives" class="img-cover">
-                    </figure>
-        
-                    <div class="card-content">
-                        <p class="card-subtitle">${element.name}</p>
-        
-                        <h3 class="h3 card-title">${element.address}</h3>
-                    </div>
-                    </div>
-                    <div class="card-bottom">
-                    <div class="card-price"> From ${element.price} </div>
-                    <div class="card-rate"> 
-                        ${ getRate(element.rate) }
-                    </div>
-                    </div>
-                </a>
+                <li class="card-animation" >
+                    <a href="${"detail.html?id=" + element.id}" class="destination-card" >
+                        <div class="card-top">
+                            <div class="card-time">
+                                <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 24 24" height="200px" width="200px" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M0 0h24v24H0z"></path><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm.5-13H11v6l5.2 3.2.8-1.3-4.5-2.7V7z"></path></svg>
+                                <p> ${element.time} Days </p>
+                            </div>
+                            <figure class="card-banner">
+                                <img src="${element.img}" width="1140" height="1100" loading="lazy" alt="Malé, Maldives" class="img-cover">
+                            </figure>
+            
+                            <div class="card-content">
+                                <p class="card-subtitle">${element.name}</p>
+                                <h3 class="h3 card-title">${element.address}</h3>
+                            </div>
+                            
+                        </div>
+                        <div class="card-bottom">
+                            <div class="card-price"> From ${element.price} </div>
+                            <div class="card-rate"> ${ getRate(element.rate) } </div>
+                        </div>
+                    </a>
                 </li>
             `
         }
@@ -188,35 +74,3 @@ LoadMoreButton.addEventListener('click', () => {
         LoadMoreButton.style.display = 'none';
     }
 })
-
-document.addEventListener('DOMContentLoaded', () => {
-    addElement(data.slice(0, currentLoad));
-})
-
-
-'use strict';
-
-/**
- * navbar toggle
- */
-
-const navToggleBtn = document.querySelector("[data-nav-toggle-btn]");
-const header = document.querySelector("[data-header]");
-
-navToggleBtn.addEventListener("click", function() {
-    this.classList.toggle("active");
-    header.classList.toggle("active");
-});
-
-
-
-/**
- * show go top btn when scroll window to 500px
- */
-
-const goTopBtn = document.querySelector("[data-go-top]");
-
-window.addEventListener("scroll", function() {
-    window.scrollY >= 500 ? goTopBtn.classList.add("active") :
-        goTopBtn.classList.remove("active");
-});
