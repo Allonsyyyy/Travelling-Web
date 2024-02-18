@@ -35,7 +35,7 @@ const addElement = (data) => {
     data.forEach(element => {
         html += `
                 <li class="card-animation" >
-                    <a href="${"detail.html?id=" + element.id}" class="destination-card" >
+                    <a href="${"detail-destination.html?id=" + element.id}" class="destination-card" >
                         <div class="card-top">
                             <figure class="card-banner">
                                 <img src="${element.img}" width="1140" height="1100" loading="lazy" alt="Malé, Maldives" class="img-cover">
