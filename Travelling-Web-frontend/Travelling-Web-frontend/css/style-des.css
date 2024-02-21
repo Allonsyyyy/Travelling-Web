@@ -167,6 +167,10 @@ body {
     border: 2px solid var(--border-color, var(--white-1));
     border-radius: var(--radius-6);
 }
+.btnheader{
+    width: 20rem;
+
+}
 
 .btn-secondary:is(:hover, :focus) {
     --background: transparent;
