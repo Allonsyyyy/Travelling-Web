@@ -2,11 +2,11 @@
         "id": 1,
         "time": 12,
         "img": "../image/quangtruongbadinh-langBac.jpg",
-        "name": "Quảng trường Ba Đình",
+        "name": "Tour tham quan Quảng trường Ba Đình",
         "address": "Hà Nội",
         "price": "$50.00",
         "rate": 5,
-        "description": "Quảng trường Ba Đình là một quảng trường lớn nằm ở trung tâm Hà Nội, Việt Nam. Nơi đây, 78 năm về trước đã chứng kiến giờ phút lịch sử trọng đại của dân tộc - Chủ tịch Hồ Chí Minh thay mặt Chính phủ lâm thời trịnh trọng đọc Bản Tuyên ngôn Độc lập, tuyên bố trước toàn thể quốc dân và nhân dân thế giới: Nước Việt Nam Dân chủ Cộng hòa ra đời. "
+        "description": "Đây là tour du lịch cung cấp cơ hội để bạn khám phá Quảng trường Ba Đình và khu vực xung quanh. Bạn sẽ được tham quan Cột cờ Hà Nội, Nhà Quốc hội Việt Nam, và nhiều di tích lịch sử khác trong khu vực này."
     },
     {
         "id": 2,
@@ -22,130 +22,130 @@
         "id": 3,
         "time": 7,
         "img": "../image/nhathoducba.jpg",
-        "name": "Nhà Thờ Đức Bà",
+        "name": "Tour khám phá thành phố",
         "address": "TP Hồ Chí Minh",
         "price": "$45.00",
         "rate": 5,
-        "description": "Được ví như biểu tượng của thành phố Hồ Chí Minh, nhà thờ Đức Bà là một trong những công trình kiến trúc độc đáo của Sài Gòn. Trải qua nhiều năm đón gió, phơi sương, nơi đây vẫn giữ nguyên nét kiến trúc cổ kính và ấn tượng như thuở ban đầu."
+        "description": "Tour này thường bao gồm việc tham quan các điểm du lịch nổi tiếng của thành phố như Công viên 30/4, Nhà thờ Đức Bà Sài Gòn, Cung điện Thống Nhất, Chợ Bến Thành và khu phố Tây Bùi Viện."
     },
     {
         "id": 4,
         "time": 2,
         "img": "../image/codohue.jpg",
-        "name": "Cố Đô Huế",
+        "name": "Tour tham quan cố đô Huế 2 ngày 1 đêm",
         "address": "Huế",
         "price": "1000000",
         "rate": 4,
-        "description": "Cố đô Huế nằm ngay cạnh dòng sông Hương tĩnh lặng, được triều đình nhà Nguyễn xây dựng từ những năm của thế kỷ 19. Tới ngày nay dù đã trải qua rất nhiều sự kiện lịch sử, Cố đô vẫn là một biểu tượng của nét đẹp cổ kính, bình yên của xứ Huế. "
+        "description": "Tour này cho phép bạn có nhiều thời gian hơn để khám phá cố đô Huế. Ngoài việc tham quan các điểm du lịch chính, bạn cũng có thể tham gia vào các hoạt động như đi thuyền trên sông Hương, thưởng thức ẩm thực đặc sản Huế và tham quan làng nghề truyền thống."
     },
     {
         "id": 5,
         "time": 3,
         "img": "../image/daophuquoc.jpg",
-        "name": "Đảo Phú Quốc",
+        "name": "Tour tham quan hòn đảo",
         "address": "Kiên Giang",
         "price": "1000000",
         "rate": 4,
-        "description": "Phú Quốc là một hòn đảo nằm ở Cực Nam của Việt Nam, địa giới hành chính thuộc tỉnh Kiên Giang, nằm trong Vịnh Thái Lan. Từ lâu, Phú Quốc được biết đến là một trong những địa điểm du lịch nổi tiếng ở miền Nam Việt Nam mà bất kì du khách nào cũng nên ghé thăm."
+        "description": "Tour này cho phép bạn khám phá các địa điểm nổi tiếng trên hòn đảo Phú Quốc như Bãi Sao, Suối Tranh, Cáp treo Hòn Thơm, Vườn Quốc Gia Phú Quốc và tham quan các làng chài truyền thống."
     },
     {
         "id": 6,
         "time": 5,
         "img": "../image/nhatrang.jpg",
-        "name": "Biển Nha Trang",
+        "name": "Tour đi lặn biển",
         "address": "Nha Trang",
         "price": "1000000",
         "rate": 4,
-        "description": "Nha Trang là một thành phố ven biển và là trung tâm chính trị, kinh tế, văn hóa, khoa học kỹ thuật và du lịch của tỉnh Khánh Hòa, Việt Nam."
+        "description": "Nha Trang là một điểm đến nổi tiếng cho lặn biển. Tour này cho phép bạn khám phá các điểm lặn biển đẹp như Rạn san hô Bãi Dài, Rạn san hô Mũi Né, Rạn san hô Hòn Mun và Rạn san hô Con Se Tre. Bạn sẽ có cơ hội ngắm nhìn đại dương sâu thẳm và khám phá động vật biển đa dạng."
     },
     {
         "id": 7,
         "time": 9,
         "img": "../image/chonoi.jpg",
-        "name": "Chợ Nổi Cái Răng",
+        "name": "Tour chợ Nổi Cái Răng",
         "address": "Cần Thơ",
         "price": "$20.00",
         "rate": 4,
-        "description": "Chợ nổi Cái Răng là loại hình chợ độc đáo và đặc trưng của vùng đồng bằng sông Cửu Long mà không nơi nào trên đất nước Việt Nam có được. Và đây cũng là khu chợ tiêu biểu, sầm uất, nổi tiếng nhất cho nét văn hóa sông nước miền Tây."
+        "description": "Chợ nổi Cái Răng là một trong những chợ nổi nổi tiếng nhất ở Cần Thơ. Tour này cho phép bạn trải nghiệm cuộc sống độc đáo trên sông với hàng trăm gian hàng bán đủ loại hàng hóa như rau củ, trái cây, đồ gốm và đặc sản địa phương. Bạn có thể đi thuyền qua chợ, tham quan và mua sắm."
     },
     {
         "id": 8,
         "time": 6,
         "img": "../image/hoguom.jpg",
-        "name": "Hồ Gươm",
+        "name": "Tour tham quan Hồ Gươm và khu phố cổ",
         "address": "Hà Nội",
         "price": "$15.00",
         "rate": 4,
-        "description": "Hồ Hoàn Kiếm/Hồ Gươm tọa lạc giữa trung tâm thành phố Hà Nội là điểm đến thu hút đông đảo người dân, du khách ghé thăm, thưởng ngoạn khung cảnh thiên nhiên tuyệt đẹp và kết hợp vui chơi, ăn uống."
+        "description": "Tour này cho phép bạn khám phá Hồ Gươm và khu phố cổ xung quanh nó. Bạn có thể tham quan Đền Ngọc Sơn, Chùa Hương và Hàng Đậu, đi dạo trên phố Hàng Gai và thưởng thức các món ăn đặc sản đường phố."
     },
     {
         "id": 9,
         "time": 12,
         "img": "../image/vungtau.jpg",
-        "name": "Vũng Tàu",
+        "name": "Tour tham quan các bãi biển",
         "address": "Vũng Tàu",
         "price": "$15.00",
         "rate": 4,
-        "description": "Vũng Tàu từ lâu đã được xem là một điểm đến du lịch hấp dẫn, bởi những vẻ đẹp tự nhiên của mình. Dù đến bất cứ đâu trong chuyến du lịch Vũng Tàu, du khách cũng sẽ bị cuốn hút bởi phong cảnh của nơi đây."
+        "description": "Vũng Tàu có nhiều bãi biển đẹp như Bãi Trước, Bãi Dứa, Bãi Dâu và Bãi Dua. Tour này cho phép bạn tham quan và tắm biển tại các bãi biển này, thư giãn và tận hưởng không gian biển xanh."
     },
     {
         "id": 10,
         "time": 8,
         "img": "../image/buonmathuot.jpg",
-        "name": "Buôn Ma Thuột",
+        "name": "Tour tham quan Khu du lịch Đray Nur",
         "address": "Đắk Lắk",
         "price": "$40.00",
         "rate": 4,
-        "description": "Là thành phố lớn nhất Đăk Lăk, Buôn Ma Thuột mang vẻ đẹp đặc trưng của Tây Nguyên, giao thông thuận tiện và có nhiều điểm tham quan du lịch độc đáo, xứ sở cà phê thu hút du khách lên đường khám phá."
+        "description": " Đray Nur là một khu du lịch sinh thái nằm cách trung tâm Buôn Ma Thuột khoảng 30 km. Tour này cho phép bạn khám phá cảnh đẹp của đồng cỏ, thác nước và suối trong khu du lịch, cũng như trải nghiệm các hoạt động như câu cá, leo núi và tham quan làng cổ."
     },
     {
         "id": 11,
         "time": 10,
         "img": "../image/sapa.jpg",
-        "name": "Sa Pa",
+        "name": "Tour leo Fansipan",
         "address": "Lào Cai",
         "price": "$30.00",
         "rate": 5,
-        "description": "Nằm dưới chân dãy Hoàng Liên Sơn hùng vĩ và chỉ cách Hà Nội 5 - 6 giờ di chuyển bằng đường cao tốc, Sa Pa là điểm đến lý tưởng quanh năm. Ngoài những thửa ruộng bậc thang vào mùa lúa chín, Sa Pa còn hút khách nhờ vẻ đẹp của nhiều điểm đến khác."
+        "description": "Fansipan là đỉnh núi cao nhất của Việt Nam và nằm gần Sapa. Tour này cho phép bạn leo đỉnh Fansipan và khám phá cảnh quan tuyệt đẹp từ đỉnh núi. Đây là một trải nghiệm thú vị và thử thách cho những người yêu thích leo núi."
     },
     {
         "id": 12,
         "time": 11,
         "img": "../image/dalat.jpg",
-        "name": "Đà Lạt",
+        "name": "Tour tham quan các vườn hoa",
         "address": "Lâm Đồng",
         "price": "$40.00",
         "rate": 4,
-        "description": "Với nhiều cảnh đẹp tự nhiên và văn hóa, con người, đặc sản độc đáo, Đà Lạt không chỉ là 1 điểm đến du lịch hấp dẫn mà còn là một nơi để bạn thả mình, thư giãn và tìm lại sự cân bằng trong cuộc sống. Hãy gạt bỏ những áp lực hàng ngày và đặt chân đến Đà Lạt và tận hưởng những trải nghiệm tuyệt vời nơi 'thành phố mù sương'."
+        "description": "Đà Lạt được biết đến với vẻ đẹp hoa tuyệt vời. Tour này cho phép bạn tham quan các vườn hoa như Vườn hoa Đà Lạt, Vườn hoa Công viên 3/4 và Vườn hoa Thung lũng Hồng. Bạn sẽ được ngắm nhìn cảnh quan đầy màu sắc và thấy hương thơm của các loại hoa đặc trưng."
     },
     {
         "id": 13,
         "time": 8,
         "img": "../image/thacbanGioc.jpg",
-        "name": "Thác Bản Giốc",
+        "name": "Tour ngày đi thác Bản Giốc",
         "address": "Cao Bằng",
         "price": "$40.00",
         "rate": 4,
-        "description": "Thác Bản Giốc là một trong những thác nước nổi tiếng không chỉ ở nước ta mà còn được bạn bè quốc tế biết đến. Nằm trong top 4 thác nước xuyên quốc gia lớn nhất trên toàn thế giới, địa điểm này ngày càng thu hút được rất nhiều khách du lịch Cao Bằng đến chiêm ngưỡng."
+        "description": "Tour này thường kéo dài một ngày và bắt đầu từ thành phố Cao Bằng. Bạn sẽ đi xe ô tô đến thác Bản Giốc, một trong những thác nước lớn nhất và đẹp nhất ở Việt Nam. Bạn có thể tham quan, chụp ảnh và ngắm cảnh đồng bằng sông Quây và biên giới Việt-Trung."
     },
     {
         "id": 14,
         "time": 10,
         "img": "../image/cualo.jpg",
-        "name": "Biển Cửa Lò",
+        "name": "Tour ngắn ngày đến biển Cửa Lò",
         "address": "Nghệ An",
         "price": "$30.00",
         "rate": 3,
-        "description": "Cửa Lò là một điểm đến du lịch không thể bỏ qua khi đến với Nghệ An. Nằm bên bờ biển Trung Bộ, du lịch Cửa Lò mang đến một kết hợp hoàn hảo giữa cảnh quan thiên nhiên tuyệt đẹp và sự phát triển văn hóa đặc trưng của vùng duyên hải."
+        "description": "Tour này thường kéo dài một ngày và khởi hành từ thành phố Vinh, tỉnh Nghệ An. Bạn sẽ có cơ hội thăm quan bãi biển Cửa Lò, một trong những bãi biển đẹp và thu hút du khách ở miền Trung. Bạn có thể tắm biển, tham gia các hoạt động thể thao nước và thưởng thức hải sản tươi ngon."
     },
     {
         "id": 15,
         "time": 11,
         "img": "../image/vinhhalong.jpg",
-        "name": "Vịnh Hạ Long",
+        "name": "Tour ngắn ngày tham quan Vịnh Hạ Long",
         "address": "Quảng Ninh",
         "price": "$40.00",
         "rate": 4,
-        "description": "Vịnh Hạ Long được Unesco nhiều lần công nhận là Di sản thiên nhiên của Thế giới với hàng nghìn hòn đảo được làm nên bởi tạo hoá kỳ vĩ và sống động. Vịnh Hạ Long có phong cảnh tuyệt đẹp nên nơi đây là một điểm du lịch rất hấp dẫn với du khách trong nước và quốc tế."
+        "description": "Tour này thường kéo dài một ngày và khởi hành từ thành phố Hạ Long. Bạn sẽ có cơ hội tham quan các điểm đẹp trong Vịnh Hạ Long như Hang Đầu Gỗ, Hang Sửng Sốt, Đảo Ngọc, Đảo Ti Tốp và thưởng thức bữa trưa trên du thuyền trên biển. Bạn có thể tận hưởng cảnh quan đẹp của Vịnh Hạ Long và tham gia vào các hoạt động như kayak, lặn biển và tham quan hang động."
     }
 ]
