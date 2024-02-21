@@ -21,7 +21,7 @@ const addElement = (data) => {
 
     removeExistAnimation();
 
-    let html = document.getElementsByClassName('destination-list')[0].innerHTML;
+    let html = document.getElementsByClassName('des-list')[0].innerHTML;
 
     data.forEach(element => {
         html += `
@@ -43,7 +43,7 @@ const addElement = (data) => {
                 </li>
             `
     });
-    document.getElementsByClassName('destination-list')[0].innerHTML = html;
+    document.getElementsByClassName('des-list')[0].innerHTML = html;
 }
 
 let currentLoad = 3;

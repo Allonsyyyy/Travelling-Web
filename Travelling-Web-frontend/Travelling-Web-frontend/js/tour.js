@@ -42,7 +42,7 @@ const addElement = (data) => {
                                 <p> ${element.time} Days </p>
                             </div>
                             <figure class="card-banner">
-                                <img src="${element.img}" width="1140" height="1100" loading="lazy" alt="Malé, Maldives" class="img-cover">
+                                <img src="${element.img}" loading="lazy" alt="Malé, Maldives" class="img-cover">
                             </figure>
             
                             <div class="card-content">

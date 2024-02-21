@@ -86,7 +86,7 @@ const LoadData = () => {
 
                     <div class="card-description">
                         <h4>${detail.description}</h4>
-                        <Button> Book Now </Button>
+                        <button onclick="window.location.href = '../payment/index.html'">ĐẶT NGAY</button>
                     </div>
                 `
 
