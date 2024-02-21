@@ -1,0 +1,127 @@
+body {
+    margin: 2rem 6rem 0 6rem;
+    padding: 0;
+    border: 0;
+    background-color: aliceblue;
+}
+
+.detail-blog .section-title {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.detailContainer {
+    width: 50vw;
+    height: max-content;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
+    padding: 0;
+    border-radius: 1rem;
+    text-decoration: none;
+    position: relative;
+    overflow: hidden;
+}
+
+.card-top {
+    position: relative;
+    height: 25rem;
+}
+
+.card-top::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(hsla(222, 46%, 17%, 0), hsla(222, 46%, 17%, 0.7));
+}
+
+.card-content {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 1rem;
+    z-index: 1;
+    color: white;
+}
+
+.card-subtitle {
+    color: var(--mikado-yellow);
+    font-family: var(--ff-comforter-brush);
+    font-size: var(--fs-5);
+    margin: 0 0 0.5rem 0;
+}
+
+.card-title {
+    color: var(--white-1);
+    font-family: var(--ff-abril-fatface);
+    margin: 0;
+}
+
+
+
+.card {
+    width: 20rem;
+    height: 30rem;
+}
+
+.card-banner {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.card-banner img {
+    width: 100%;
+    height: 100%;
+    transition: all 0.3s ease-in-out;
+}
+
+.card-bottom {
+    margin: 1rem;
+    height: 2rem;
+}
+
+.card-name {
+    width: fit-content;
+    display: block; /* Chuyển display thành block để có thể sử dụng margin: auto */
+    margin: 0 auto; /* Căn giữa theo chiều ngang */
+    padding: 0.5rem; /* Tăng padding */
+    border-radius: 0.2rem;
+    color: black;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 1.5em; /* Tăng kích thước chữ */
+    border: none;
+}
+
+
+
+
+
+.card-description {
+    margin: 1rem;
+}
+
+.card-description button {
+    width: fit-content;
+    display: inline-block;
+    align-items: center;
+    margin: 0;
+    padding: 0.6rem 1.5rem;
+    border-radius: 0.2rem;
+    color: white;
+    background-color: rgb(0, 193, 145);
+    border: none;
+    font-size: 0.8rem;
+    font-weight: 700;
+}
+
+.card-description button:hover {
+    cursor: pointer;
+}
+.card-name {
+    text-align: center; /* Căn giữa nội dung */
+    font-weight: bold; /* Làm đậm */
+    font-size: 1.2em; /* Phóng to nội dung */
+}
