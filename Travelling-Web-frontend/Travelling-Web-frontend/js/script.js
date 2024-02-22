@@ -15,7 +15,8 @@ navToggleBtn.addEventListener("click", function() {
 
 
 /**
- * show go top btn when scroll window to 500px
+ * 
+hiển thị nút btn lên dưới cùng khi cuộn cửa sổ tới 500px
  */
 
 const goTopBtn = document.querySelector("[data-go-top]");
