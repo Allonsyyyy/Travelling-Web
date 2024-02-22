@@ -1,15 +1,17 @@
-// validation form login
+// mẫu đăng nhập
 const inputUsername = document.querySelector(".input-login-username");
 const inputPassword = document.querySelector(".input-login-password");
 const btnLogin = document.querySelector(".login__signInButton");
 
-// validation form login
+// mẫu đăng nhập
 
 btnLogin.addEventListener("click", (e) => {
   e.preventDefault();
   if (inputUsername.value === "" || inputPassword.value === "") {
     alert("Vui lòng không để trống");
+    
   } else {
+    //xác nhận tài khoản mật khẩu đã được đăng ký chưa
     const user = JSON.parse(localStorage.getItem(inputUsername.value));
     if (
       user.username === inputUsername.value &&
