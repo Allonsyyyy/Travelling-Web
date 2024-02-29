@@ -1,10 +1,9 @@
-This is basic tours booking website. This site is made up for particular tours company. User can book their tours online.
+Chào mừng bạn đến với Trang Web Du Lịch Phiêu Lưu Của Chúng Tôi!
 
-For running project:
+Giới Thiệu
+Chúng tôi cam kết mang đến những trải nghiệm du lịch đáng nhớ cho những người phiêu lưu như bạn! Đội ngũ của chúng tôi đam mê khám phá những điểm đến đẹp nhất trên thế giới và tạo ra các tour du lịch tùy chỉnh phục vụ mọi sở thích và ưu tiên.
 
-It is manadtory to add detailed_desc and destionation table's data in table for running project which are available in .sql formate in my Travello repo..
-For OTP related things I have mentioned points in settings.py .
-Add First record in pessanger detail as Trip_same_id =1 rest value can be any thing.
-It is made only for learning purpose so it may have bugs.
-
-Youtube link for demo Video : https://youtu.be/4q73wIMF79E
+Những Gì Chúng Tôi Cung Cấp
+Tours Tùy Chỉnh: Cho dù bạn đang tìm kiếm những cuộc phiêu lưu ngoài trời mạo hiểm, trải nghiệm văn hóa, hoặc những kỳ nghỉ yên bình, chúng tôi có tour hoàn hảo dành cho bạn.
+Hướng Dẫn Chuyên Nghiệp: Các hướng dẫn có kiến thức sâu rộng là người địa phương với hiểu biết sâu sắc về lịch sử, văn hóa và kỳ quan tự nhiên của mỗi điểm đến.
+An Toàn Là Trên Hết: Sự an toàn của bạn là ưu tiên hàng đầu của chúng tôi. Chúng tôi tuân thủ các tiêu chuẩn an toàn cao nhất và đảm bảo mọi khía cạnh của chuyến đi của bạn được lên kế hoạch và thực hiện cẩn thận.
