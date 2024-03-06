@@ -1,0 +1,2912 @@
+[{
+  "_id": 10758837,
+  "name": "Holi Panorama Nha Trang",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/10758837/-1/b61663b961355a14e712c5cdfcc72f52.jpg?ce=0&s=1024x768",
+  "price": 970
+},
+{
+  "_id": 2334084,
+  "name": "Swandor Cam Ranh Resort-Ultra All Inclusive",
+  "address": "Cam Hải Đông, Nha Trang, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/2334084/-1/58338c68c8c41f7b32ef92687bbbd652.jpg?ce=0&s=1024x768",
+  "price": 1750
+},
+{
+  "_id": 31451445,
+  "name": "Panorama Nha Trang by HLG",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/31451445/-1/9288a8fe37dd377e9ff323e78c19e734.jpg?ca=29&ce=0&s=1024x768",
+  "price": 1540
+},
+{
+  "_id": 443515,
+  "name": "Amiana Resort Nha Trang",
+  "address": "Vĩnh Hòa, Nha Trang, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/443515/-1/810cfc6eef7ea9d089f0b308986b4f21.jpg?ca=7&ce=1&s=1024x768",
+  "price": 540
+},
+{
+  "_id": 9823772,
+  "name": "Movenpick Resort Cam Ranh",
+  "address": "Cam Hải Đông, Nha Trang, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/9823772/-1/45ccfc6ebbf9901671b866d7a56eda3c.jpg?ca=16&ce=1&s=1024x768",
+  "price": 1990
+},
+{
+  "_id": 772294,
+  "name": "Regalia Nha Trang Hotel",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/772/772294/772294_15072716250033111358.jpg?ca=5&ce=1&s=1024x768",
+  "price": 660
+},
+{
+  "_id": 15920249,
+  "name": "Masova Hotel",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/15920249/-1/f794905c04741d358988781fde5f2e9b.jpg?ce=0&s=1024x768",
+  "price": 1000
+},
+{
+  "_id": 1136198,
+  "name": "Balcony Nha Trang Hotel",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/113/1136198/1136198_16032114430040943133.jpg?ca=6&ce=1&s=1024x768",
+  "price": 1170
+},
+{
+  "_id": 2106708,
+  "name": "Oliver Hotel",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/2106708/-1/42ddab5ee4fbe93bae386297625f085c.jpg?ca=17&ce=1&s=1024x768",
+  "price": 1860
+},
+{
+  "_id": 12185435,
+  "name": "ALPHA BIRD NHA TRANG",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/12185435/-1/6660e467f6c098654c095947c0ef1ced.jpg?ca=15&ce=1&s=1024x768",
+  "price": 1110
+},
+{
+  "_id": 2818283,
+  "name": "Melissa Hotel",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/2818283/-1/3454ee44cace7eeddb97a31353feeaf2.jpg?ca=11&ce=1&s=1024x768",
+  "price": 1920
+},
+{
+  "_id": 13486290,
+  "name": "Panorama Star Beach Nha Trang",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/13486290/-1/22d2493c2053fe0ed0f5a7e5c0e395c2.jpg?ce=0&s=1024x768",
+  "price": 1440
+},
+{
+  "_id": 1158838,
+  "name": "StarCity Nha Trang Hotel",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/1158838/-1/40e82b9bc6a08a1441312804d1f7f45a.jpg?ca=0&ce=1&s=1024x768",
+  "price": 1730
+},
+{
+  "_id": 6430478,
+  "name": "Crown Hotel Nha Trang",
+  "address": "Vĩnh Trường, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/6430478/-1/aa23ee9c0d6a35527d0e4a100e224484.jpg?ca=11&ce=1&s=1024x768",
+  "price": 1710
+},
+{
+  "_id": 12661076,
+  "name": "The Empyrean Nha Trang",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/12661076/-1/56c73d30f1b0d794f1da7585151d6271.jpg?ce=0&s=1024x768",
+  "price": 1320
+},
+{
+  "_id": 4972782,
+  "name": "Imperial Nha Trang Hotel",
+  "address": "Vĩnh Trường, Nha Trang, Vietnam",
+  "rating": 4.5,
+  "image": "//pix6.agoda.net/hotelImages/4972782/-1/794f328dcc765a9a3fcd26fbc30f2278.jpg?ca=18&ce=1&s=1024x768",
+  "price": 610
+},
+{
+  "_id": 908963,
+  "name": "Dendro Gold Hotel ",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/908963/-1/aeb0dfafaa17b758341cdfe7fc2de819.jpg?ca=29&ce=0&s=1024x768",
+  "price": 1870
+},
+{
+  "_id": 9760255,
+  "name": "Senia Hotel",
+  "address": "Vinh Hai, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/9760255/-1/f8749c4a954ad8c8ac3df6a686618e44.jpg?ce=0&s=1024x768",
+  "price": 1630
+},
+{
+  "_id": 65153,
+  "name": "Vinpearl Resort Nha Trang",
+  "address": "Hon Tre, Nha Trang, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/65153/-1/9c37561330307250fb121ff4be6c432c.jpg?ce=0&s=1024x768",
+  "price": 1660
+},
+{
+  "_id": 10681625,
+  "name": "Regalia Gold Hotel",
+  "address": "Tân Lập, Nha Trang, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/10681625/-1/7cd7e553a9c37ce3120bc8fdc037dca5.jpg?ca=11&ce=1&s=1024x768",
+  "price": 630
+},
+{
+  "_id": 1880156,
+  "name": "Bellevue Hotel",
+  "address": "Vinh Hai, Nha Trang, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/1880156/-1/da2c7f9daab87db08493249a3c1bef5c.jpg?ca=9&ce=1&s=1024x768",
+  "price": 850
+},
+{
+  "_id": 23695363,
+  "name": "Grand Gosia Hotel",
+  "address": "Vinh Nguyen, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/23695363/-1/4ec51fd86c8ee939837c79c26d0847c4.jpg?ce=0&s=1024x768",
+  "price": 690
+},
+{
+  "_id": 1120145,
+  "name": "Dubai Nha Trang Hotel",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/1120145/-1/614c396fc8a58efc0531dbe7e8dcc9cb.jpg?ce=0&s=1024x768",
+  "price": 1430
+},
+{
+  "_id": 5945444,
+  "name": "Mojzo Inn",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/5945444/-1/b165ebb0eaca19f1bdec26104a296a5b.jpg?ca=16&ce=1&s=1024x768",
+  "price": 1390
+},
+{
+  "_id": 11007,
+  "name": "Yasaka Saigon Resort Hotel & Spa",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/11007/-1/d0c682b82043468df34b912ae6d68553.jpg?ca=8&ce=1&s=1024x768",
+  "price": 1910
+},
+{
+  "_id": 5586857,
+  "name": "Sea Pearl Hotel Nha Trang",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/5586857/-1/9896d9148d644ba858124fac95dcb42c.png?ce=0&s=1024x768",
+  "price": 720
+},
+{
+  "_id": 178263,
+  "name": "Prime New",
+  "address": "Lộc Thọ, Nha Trang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/178263/-1/9344e38f845850ec6a43a8f6033f566c.jpg?ce=0&s=1024x768",
+  "price": 1470
+},
+{
+  "_id": 7466289,
+  "name": "Virgo Hotel",
+  "address": "Tân Lập, Nha Trang, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/7466289/-1/63a228f0438a61d37c105135602bfc59.jpg?ce=0&s=1024x768",
+  "price": 1920
+},
+{
+  "_id": 861432,
+  "name": "Diamond Sea Hotel",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/861432/-1/7e01470b7384dfc315e4a1a6284d348e.jpg?ce=0&s=1024x768",
+  "price": 1960
+},
+{
+  "_id": 4965532,
+  "name": "Balcona Hotel Da Nang",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/4965532/-1/c58b0b509ce489434b96b65f6fafacaf.jpg?ca=9&ce=1&s=1024x768",
+  "price": 610
+},
+{
+  "_id": 2911802,
+  "name": "New Orient Hotel Da Nang",
+  "address": "Hải Châu, Da Nang, Vietnam",
+  "rating": 4.5,
+  "image": "//pix6.agoda.net/hotelImages/2911802/-1/a26f9aea576bffe073d938506a7e0fa2.jpg?ce=0&s=1024x768",
+  "price": 1610
+},
+{
+  "_id": 7243073,
+  "name": "SALA DANANG BEACH HOTEL",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4.5,
+  "image": "//pix6.agoda.net/hotelImages/7243073/-1/2c23bff22987ee68884d4f4996df672a.png?ca=9&ce=1&s=1024x768",
+  "price": 1730
+},
+{
+  "_id": 31008939,
+  "name": "Draco Hotel & Suites",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/31008939/-1/d002f11ca01abbfae3a49ac14c5e63b6.jpg?ce=0&s=1024x768",
+  "price": 1210
+},
+{
+  "_id": 36750712,
+  "name": "Golden Star Suite Hotel",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/36750712/-1/06a7f22d5d5c450501db7a3eb77d4d75.jpg?ce=0&s=1024x768",
+  "price": 850
+},
+{
+  "_id": 23168138,
+  "name": "Harmony Homestay",
+  "address": "Hải Châu, Da Nang, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/23168138/328908056/bcbc05be111ee21b734332b297089ccb.jpg?ca=18&ce=1&s=1024x768",
+  "price": 1790
+},
+{
+  "_id": 28139188,
+  "name": "Cali Hotel Books Da Nang",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/28139188/-1/30702cde529c1b9c86f0a92dd5e092bd.jpg?ce=0&s=1024x768",
+  "price": 1250
+},
+{
+  "_id": 308197,
+  "name": "Adina Hotel",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/308/308197/308197_20050811400090313578.png?ca=11&ce=1&s=1024x768",
+  "price": 1200
+},
+{
+  "_id": 6534301,
+  "name": "Royal Beach Hotel",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/6534301/-1/7b8cda39aa184e0aac32b0056f1fa222.jpg?ce=0&s=1024x768",
+  "price": 1820
+},
+{
+  "_id": 8825326,
+  "name": "G8 Luxury Hotel and Spa Da Nang",
+  "address": "Hải Châu, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/8825326/-1/a9f1790a1bdafc93b0469f277b62feac.jpg?ce=0&s=1024x768",
+  "price": 1540
+},
+{
+  "_id": 6884705,
+  "name": "Salmalia Boutique Hotel & Spa",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/6884705/-1/3ce113a10a2f924fae2d2e723ff2e058.png?ce=0&s=1024x768",
+  "price": 1240
+},
+{
+  "_id": 926594,
+  "name": "THE BLOSSOM RESORT ISLAND – All Inclusive",
+  "address": "Hải Châu, Da Nang, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/926594/-1/f11233099f47fd2b6e3b7b76235a0405.png?ce=0&s=1024x768",
+  "price": 860
+},
+{
+  "_id": 30125137,
+  "name": "Bella Merry Hotel",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/30125137/-1/8ac0d7b5820829d2d72e81b067a1f320.jpg?ce=0&s=1024x768",
+  "price": 1150
+},
+{
+  "_id": 302683,
+  "name": "Brilliant Hotel Danang",
+  "address": "Hải Châu, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/302683/-1/12bd316bf51cc156c06315e31b1f4639.jpg?ca=19&ce=1&s=1024x768",
+  "price": 1470
+},
+{
+  "_id": 27938347,
+  "name": "CHIN Stays - Han River",
+  "address": "Hải Châu, Da Nang, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/27938347/-1/a67bff1641b85972dac785b4f97a01a1.jpg?ca=28&ce=0&s=1024x768",
+  "price": 700
+},
+{
+  "_id": 48029813,
+  "name": "Sunset Sea Hotel",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/48029813/-1/e3faaf798ec6bb01e4696e51b6fe32e7.jpg?ce=0&s=1024x768",
+  "price": 1500
+},
+{
+  "_id": 5251681,
+  "name": "Diamond Beach Hotel",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/5251681/-1/5538bce0f9cc792343dcac5cfdb08d11.jpg?ca=0&ce=1&s=1024x768",
+  "price": 950
+},
+{
+  "_id": 443623,
+  "name": "Brown Bean Hotel - 2/9 Street",
+  "address": "Hải Châu, Da Nang, Vietnam",
+  "rating": 2.5,
+  "image": "//pix6.agoda.net/hotelImages/443623/-1/9e9bb2986b02de332785cc224cb11421.jpg?ca=8&ce=1&s=1024x768",
+  "price": 1630
+},
+{
+  "_id": 1214913,
+  "name": "Centre Hotel",
+  "address": "Hải Châu, Da Nang, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/1214913/-1/637785361870163888c240f2d0c0a84a.jpg?ca=29&ce=0&s=1024x768",
+  "price": 760
+},
+{
+  "_id": 32213470,
+  "name": "J&B Hotel & Apartment",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/32213470/0/443aa9e3439d19845dedb2b4a60d33fd.jpeg?s=1024x768",
+  "price": 1730
+},
+{
+  "_id": 1899405,
+  "name": "Adaline Hotel & Suite",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/189/1899405/1899405_17041214310052340392.jpg?ca=6&ce=1&s=1024x768",
+  "price": 600
+},
+{
+  "_id": 31073015,
+  "name": "Anh Phuong Hotel & Apartment",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/31073015/616861201/0592f62dc76780f9c71b7ccae9e411fb.jpg?ce=0&s=1024x768",
+  "price": 1070
+},
+{
+  "_id": 37981423,
+  "name": "Estrella Boutique Hotel",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/37981423/-1/69d8db7c8abb089f99e3061455a38985.jpg?ce=0&s=1024x768",
+  "price": 1930
+},
+{
+  "_id": 3582444,
+  "name": "The Herriott Hotel & Suite Danang",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/3582444/-1/2d8f768a0eda73078ed4886e281a1d19.jpg?ca=6&ce=1&s=1024x768",
+  "price": 1770
+},
+{
+  "_id": 2172362,
+  "name": "Sapphire Hotel",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/2172362/-1/ff799fd2f420d9d3b327a789b51ff75c.jpg?ce=0&s=1024x768",
+  "price": 1790
+},
+{
+  "_id": 2562701,
+  "name": "Pariat River Front Hotel Da Nang",
+  "address": "Hải Châu, Da Nang, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/2562701/-1/307a7fa43e33045847e30e83bdb6ce5e.jpg?ca=20&ce=0&s=1024x768",
+  "price": 1290
+},
+{
+  "_id": 10003415,
+  "name": "RHM Luxury Hotel And Suite",
+  "address": "Phước Mỹ, Da Nang, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/10003415/-1/cd9eae9415bbe8213381264e935c0b80.png?ca=27&ce=0&s=1024x768",
+  "price": 1210
+},
+{
+  "_id": 38358514,
+  "name": "Cozrum Homes - Sonata Residence ",
+  "address": "District 7, Ho Chi Minh City, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/38358514/0/a0536d9e6ca23ec600851ccdca57a567.jpg?ce=0&s=1024x768",
+  "price": 960
+},
+{
+  "_id": 37838702,
+  "name": "BOBHOTEL - BÙI VIỆN",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/37838702/-1/b6d7cdacc2e072e86b58de92a66cad7a.jpg?ce=0&s=1024x768",
+  "price": 1130
+},
+{
+  "_id": 46581603,
+  "name": "The GK House",
+  "address": "Bình Thạnh, Ho Chi Minh City, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/46581603/-1/4f12f7eaa1f9c31e0086297eda58aa7e.jpg?ce=0&s=1024x768",
+  "price": 770
+},
+{
+  "_id": 40023149,
+  "name": "Signature by M Village Lê Thánh Tôn",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/40023149/-1/3c9d8cf5ef4bcb0f81703b2319ff16e2.jpg?ce=0&s=1024x768",
+  "price": 950
+},
+{
+  "_id": 5597973,
+  "name": "Saigon Charm Hotel",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/559/5597973/5597973_18080211380067241861.jpg?ca=0&ce=1&s=1024x768",
+  "price": 660
+},
+{
+  "_id": 36087877,
+  "name": "Ekomo Home",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/36087877/-1/5232f35748f1af5439d39426e1152f70.jpg?ce=0&s=1024x768",
+  "price": 1850
+},
+{
+  "_id": 2577268,
+  "name": "Thinh Gia Phat Hotel Hoang Hoa Tham",
+  "address": "Tân Bình, Ho Chi Minh City, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/2577268/-1/cd2bed0dd044d54a28c613b104dfa0fe.png?ce=0&s=1024x768",
+  "price": 1610
+},
+{
+  "_id": 22423667,
+  "name": "Nikko Hotel - The Classy Life",
+  "address": "District 7, Ho Chi Minh City, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/22423667/-1/c8b11fd11884172c23959f0ccb4ebfc0.jpg?ca=19&ce=1&s=1024x768",
+  "price": 940
+},
+{
+  "_id": 283741,
+  "name": "Queen Central Apartment-Hotel",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/283741/-1/353434aa430ed526bd40b760e41a24c3.jpg?ce=0&s=1024x768",
+  "price": 720
+},
+{
+  "_id": 6988262,
+  "name": "Cherry Hotel and Apartment",
+  "address": "Tân Bình, Ho Chi Minh City, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/6988262/-1/dfbc31510d70e5adf8bf321849e39447.jpg?ca=13&ce=1&s=1024x768",
+  "price": 940
+},
+{
+  "_id": 5944280,
+  "name": "99 Bui Vien Hotel (Boutique)",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/5944280/-1/6042d4842c4a86e304cc51484fba0eac.jpg?ca=27&ce=0&s=1024x768",
+  "price": 870
+},
+{
+  "_id": 21728029,
+  "name": "GRAND LEE HOTEL",
+  "address": "Bình Thạnh, Ho Chi Minh City, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/21728029/-1/92cbc56b5a56380d8edd7e8fb79bbd28.jpg?ca=17&ce=1&s=1024x768",
+  "price": 870
+},
+{
+  "_id": 9344586,
+  "name": "Havana Airport Hotel",
+  "address": "Tân Bình, Ho Chi Minh City, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/934/9344586/9344586_19080910100079118249.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1180
+},
+{
+  "_id": 7295630,
+  "name": "The Chill Suites- City Center ",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/7295630/-1/cc29ff8b9c5ab4e1a8009cae17f4e8ec.jpg?ca=13&ce=1&s=1024x768",
+  "price": 610
+},
+{
+  "_id": 31641370,
+  "name": "Vilion Boutique Hotel Ben Thanh",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/31641370/-1/e33b9deabbbd1a735642fb18e596d733.jpg?ce=0&s=1024x768",
+  "price": 1420
+},
+{
+  "_id": 2817185,
+  "name": "The Blue Airport Hotel",
+  "address": "Tân Bình, Ho Chi Minh City, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/2817185/-1/4406a970306a452300f94532410dab2c.jpg?ca=10&ce=1&s=1024x768",
+  "price": 500
+},
+{
+  "_id": 18183003,
+  "name": "Joy Inn Cong Hoa Hotel",
+  "address": "Tân Bình, Ho Chi Minh City, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/18183003/-1/597ee2cc71bf01a3ab9dbb2213a1c3de.jpg?ca=25&ce=0&s=1024x768",
+  "price": 520
+},
+{
+  "_id": 10220890,
+  "name": "Nguyen Thanh Hotel",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/10220890/-1/e724b84a64f21c0f5d979f221e5e8ea3.jpg?ce=0&s=1024x768",
+  "price": 750
+},
+{
+  "_id": 9761289,
+  "name": "OYO 373 Habana Hotel",
+  "address": "Gò Vấp, Ho Chi Minh City, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/9761289/-1/4954ee8cb9ff384933bc955af1fddd38.jpg?ca=12&ce=1&s=1024x768",
+  "price": 990
+},
+{
+  "_id": 10991,
+  "name": "Saigon Prince Hotel",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 4.5,
+  "image": "//pix6.agoda.net/hotelImages/10991/-1/d4dd9a3da88d5d62dedd7cb1c253ddd8.jpg?ce=0&s=1024x768",
+  "price": 830
+},
+{
+  "_id": 2163076,
+  "name": "SAIGON River Hotel - Dist 2",
+  "address": "District 2, Ho Chi Minh City, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/216/2163076/2163076_17040716240052192366.jpg?ca=6&ce=1&s=1024x768",
+  "price": 1170
+},
+{
+  "_id": 46749259,
+  "name": "Rita Hotel - Home - San Bay TSN & Canh Benh Vien Tam Anh",
+  "address": "Tân Bình, Ho Chi Minh City, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/46749259/-1/4810878d832e95abe59da9604e59fd07.jpg?ce=0&s=1024x768",
+  "price": 580
+},
+{
+  "_id": 36925659,
+  "name": "CoCo Guesthouse",
+  "address": "Bình Thạnh, Ho Chi Minh City, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/36925659/0/6757fffc9c2ccf522441beb5d77f2319.png?ce=0&s=1024x768",
+  "price": 860
+},
+{
+  "_id": 36825405,
+  "name": "Triple E Hotel Metro Ben Thanh",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/36825405/-1/48362aea2093667ab95dfabc87763a57.jpg?ce=0&s=1024x768",
+  "price": 1940
+},
+{
+  "_id": 38594360,
+  "name": "Start House DORM Walk 5 Minutes to the Airport",
+  "address": "Tân Bình, Ho Chi Minh City, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/446255058.jpg?k=613e378b318cbf11653d077eb65b52505ae5559aaed441ceddcaaba47038fc83&o=",
+  "price": 1560
+},
+{
+  "_id": 42071344,
+  "name": "Yen House",
+  "address": "Tân Bình, Ho Chi Minh City, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/42071344/-1/fdff12d543f0facba736785dae1c025f.jpg?ce=0&s=1024x768",
+  "price": 1490
+},
+{
+  "_id": 159186,
+  "name": "Cochin Zen Hotel",
+  "address": "District 1, Ho Chi Minh City, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/159186/-1/1e4534b0938d7b0a17f20ee55dcdea6d.png?ce=0&s=1024x768",
+  "price": 1980
+},
+{
+  "_id": 36827232,
+  "name": "OYO 261 Binh Dung Hotel",
+  "address": "Phú Nhuận, Ho Chi Minh City, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/36827232/0/e76c8df7751a1b38f3dd90a7b002c47a.jpg?ce=0&s=1024x768",
+  "price": 1850
+},
+{
+  "_id": 18482853,
+  "name": "The Lakeview - West Lake Lotus Apartments",
+  "address": "Tay Ho District, Hanoi, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/18482853/-1/824db8ae29a1fce6639eb39596ac91c4.jpg?ce=0&s=1024x768",
+  "price": 600
+},
+{
+  "_id": 3530522,
+  "name": "Granda Trung Hoa Apartment",
+  "address": "Cầu Giấy, Hanoi, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/3530522/-1/da3cb50e465fdc1a36fb9d8c7b81b569.jpg?ce=0&s=1024x768",
+  "price": 1700
+},
+{
+  "_id": 5462641,
+  "name": "Granda Suites Hanoi",
+  "address": "Cầu Giấy, Hanoi, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/5462641/-1/52f23f63153f0a2ab405e3b75e10206c.jpg?ce=0&s=1024x768",
+  "price": 570
+},
+{
+  "_id": 665815,
+  "name": "Lotte Hotel Hanoi",
+  "address": "Ba Đình, Hanoi, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/665815/-1/71f86c5cf90698ecbe9a0aeea9979aec.jpg?ca=27&ce=0&s=1024x768",
+  "price": 1810
+},
+{
+  "_id": 35255212,
+  "name": "Vinhomes D'Capitale - Lilyhome",
+  "address": "Cầu Giấy, Hanoi, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/35255212/0/bd63159aaf4ca8f105d4f1ae0a638d91.jpg?ce=0&s=1024x768",
+  "price": 1340
+},
+{
+  "_id": 7405531,
+  "name": "Family Transit 2 Hotel",
+  "address": "Noi Bai Airport, Hanoi, Vietnam",
+  "rating": 2.5,
+  "image": "//pix6.agoda.net/hotelImages/7405531/-1/b03c0300090dd23125c644f1851e0143.jpg?ce=0&s=1024x768",
+  "price": 800
+},
+{
+  "_id": 36941722,
+  "name": "Granda Lake View Hotel & Apartment",
+  "address": "Cầu Giấy, Hanoi, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/36941722/-1/343d626d46b78d8cedf7a53ad4f3764f.jpg?ce=0&s=1024x768",
+  "price": 1720
+},
+{
+  "_id": 25057063,
+  "name": "MIA HOTEL",
+  "address": "Trung Hoa Nhan Chinh, Hanoi, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/25057063/-1/29fdd531ef320dc51ff244b1ab849e1a.jpg?ca=19&ce=1&s=1024x768",
+  "price": 630
+},
+{
+  "_id": 2169153,
+  "name": "Granda Legend Apartment",
+  "address": "Cầu Giấy, Hanoi, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/2169153/-1/1b83da6985486d2638658b891df4da56.jpg?ca=7&ce=1&s=1024x768",
+  "price": 1590
+},
+{
+  "_id": 546247,
+  "name": "La Palm Hotel",
+  "address": "Old Quarter, Hanoi, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/546247/-1/59a4729e9f9b5521e0553bde5aa85deb.jpg?ca=13&ce=1&s=1024x768",
+  "price": 1960
+},
+{
+  "_id": 35395155,
+  "name": "Hanoi Jade Hostel",
+  "address": "Old Quarter, Hanoi, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/35395155/0/e846400e95f4f9ef9321c801e14498d4.jpg?ce=0&s=1024x768",
+  "price": 1400
+},
+{
+  "_id": 42269639,
+  "name": "Vinhomes Metropolis - CitiHome",
+  "address": "Ba Đình, Hanoi, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/42269639/702681340/3ba05ad7bf57a67f08fd343893c179ba.jpg?ce=0&s=1024x768",
+  "price": 880
+},
+{
+  "_id": 28892221,
+  "name": "HANZ Kieu Anh Hotel Hanoi",
+  "address": "Cầu Giấy, Hanoi, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/28892221/-1/2a83f0ce6380f398ced1058f2ca03290.jpg?ce=0&s=1024x768",
+  "price": 1400
+},
+{
+  "_id": 45084233,
+  "name": "Ha Noi Memory Central Hotel & Spa",
+  "address": "Old Quarter, Hanoi, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/45084233/-1/7813dc247a6f3745b5bb18126ba04ad4.jpg?ce=0&s=1024x768",
+  "price": 570
+},
+{
+  "_id": 37395103,
+  "name": "Mia Sen Vong Hotel",
+  "address": "Hoang Mai District, Hanoi, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/37395103/0/9f0efcf59a91f6a78990369a97c5fba5.jpg?ce=0&s=1024x768",
+  "price": 780
+},
+{
+  "_id": 2150727,
+  "name": "Granda Cau Giay Apartment",
+  "address": "Cầu Giấy, Hanoi, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/2150727/-1/454e9adcc3c604487e82fb8972688c13.jpg?ce=0&s=1024x768",
+  "price": 1740
+},
+{
+  "_id": 2543248,
+  "name": "Hanoi Stella Hotel",
+  "address": "Hoan Kiem District, Hanoi, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/254/2543248/2543248_17091809290056497442.jpg?ca=6&ce=1&s=1024x768",
+  "price": 1760
+},
+{
+  "_id": 42429740,
+  "name": "Vinhomes D'Capitale - CitiHome",
+  "address": "Cầu Giấy, Hanoi, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/42429740/0/6d6fd2707b81bfe86e4797572f36fcc4.jpg?ce=0&s=1024x768",
+  "price": 520
+},
+{
+  "_id": 31265974,
+  "name": "PING DIAMOND HOTEL",
+  "address": "Cầu Giấy, Hanoi, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/31265974/-1/58b342807e702c17b0de8076969350b0.jpg?ca=28&ce=0&s=1024x768",
+  "price": 1100
+},
+{
+  "_id": 47217684,
+  "name": "Queen Hotel 2 - Hà Đông",
+  "address": "Hà Đông, Hanoi, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/47217684/-1/be84e2153c635272bb5df380e2f0f1b6.jpg?ce=0&s=1024x768",
+  "price": 680
+},
+{
+  "_id": 4138531,
+  "name": "Hanoi Prime Center Hotel",
+  "address": "Old Quarter, Hanoi, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/4138531/-1/c0194d0669a3a7639ff305e0a19c3b75.jpg?ca=7&ce=1&s=1024x768",
+  "price": 570
+},
+{
+  "_id": 34631593,
+  "name": "Thanh Hương 99 Hotel - Nội Bài",
+  "address": "Noi Bai Airport, Hanoi, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/34631593/-1/9f2e065e699ff9f8dc7879c5cbd7ac4e.jpg?ce=0&s=1024x768",
+  "price": 1930
+},
+{
+  "_id": 37332831,
+  "name": "NOVA Dai Thanh Hotel",
+  "address": "Hà Đông, Hanoi, Vietnam",
+  "rating": 1,
+  "image": "//pix6.agoda.net/hotelImages/37332831/-1/1719e9a541da34456b5200535d5d6dd5.jpg?ce=0&s=1024x768",
+  "price": 640
+},
+{
+  "_id": 247355,
+  "name": "Grand Plaza Hanoi Hotel",
+  "address": "Cầu Giấy, Hanoi, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/247355/-1/568ee683a7acfdc541d1296e997ae565.png?ce=0&s=1024x768",
+  "price": 1550
+},
+{
+  "_id": 15749490,
+  "name": "Hanoi Charming House",
+  "address": "Old Quarter, Hanoi, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/property/15749490/0/d211a7c82654385b1aefa1d782af660b.jpg?ca=12&ce=1&s=1024x768",
+  "price": 1890
+},
+{
+  "_id": 2574429,
+  "name": "Hotel Mai",
+  "address": "Mỹ Đình, Hanoi, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/2574429/-1/776fa3752eb5ca786a1d600669467554.jpg?ce=0&s=1024x768",
+  "price": 790
+},
+{
+  "_id": 6892430,
+  "name": "Vision Boutique Hotel Hanoi",
+  "address": "Hoan Kiem District, Hanoi, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/6892430/-1/005d2671bee6e4765574d2f59cc03b5c.jpg?ca=18&ce=1&s=1024x768",
+  "price": 1760
+},
+{
+  "_id": 38699030,
+  "name": "Amour Resort Bavi",
+  "address": "Ba Vi, Hanoi, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/38699030/-1/22c4f9b75f0f596fd4d898ae37b65f34.jpg?ce=0&s=1024x768",
+  "price": 1330
+},
+{
+  "_id": 1985199,
+  "name": "Melia Vinpearl Phu Quoc",
+  "address": "Gành Dầu, Phu Quoc Island, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/1985199/-1/3c3fb45447eb61093a8c1608d6637c6b.jpg?ce=0&s=1024x768",
+  "price": 1060
+},
+{
+  "_id": 1567551,
+  "name": "9Station Hostel & Bar Phu Quoc                                                              ",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/1567551/-1/e6fe570818c289bc8684735f58e3e66a.jpg?ce=0&s=1024x768",
+  "price": 770
+},
+{
+  "_id": 296330,
+  "name": "Arcadia Phu Quoc Resort",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/296/296330/296330_15020311520025038120.jpg?ca=3&ce=1&s=1024x768",
+  "price": 630
+},
+{
+  "_id": 2430159,
+  "name": "Seashells Phu Quoc Hotel & Spa",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/2430159/-1/147856f2f4b8df2d4dd4a90a1c0841d2.jpg?ce=0&s=1024x768",
+  "price": 1820
+},
+{
+  "_id": 22229131,
+  "name": "CHILL HOUSE by the beach",
+  "address": "Ong Lang, Phu Quoc Island, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/22229131/-1/0705b9187f8f1a64d37c37c6fd932a9a.jpg?ce=0&s=1024x768",
+  "price": 1120
+},
+{
+  "_id": 1147156,
+  "name": "Cosy Bungalow",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 4.5,
+  "image": "//pix6.agoda.net/hotelImages/114/1147156/1147156_17090717560056120258.jpg?ca=6&ce=1&s=1024x768",
+  "price": 1660
+},
+{
+  "_id": 47561935,
+  "name": "TỊNH House Phú Quốc",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/47561935/-1/11abd6e7a223ca83350b49236dff7c64.jpg?ce=0&s=1024x768",
+  "price": 590
+},
+{
+  "_id": 11081947,
+  "name": "Paralia Khem Beach Phu Quoc Hotel",
+  "address": "Bai Khem, Phu Quoc Island, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/11081947/-1/19885ca1f58d4bff295b69eede41762d.jpg?ca=16&ce=1&s=1024x768",
+  "price": 850
+},
+{
+  "_id": 621517,
+  "name": "The Shells Resort & Spa - Phu Quoc",
+  "address": "Ong Lang, Phu Quoc Island, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/621517/-1/a4b5e6f89eea3bc2c09bbdf7a18f3acb.jpg?ce=0&s=1024x768",
+  "price": 1650
+},
+{
+  "_id": 45928475,
+  "name": "Ngọc Trai Xanh Bungalow",
+  "address": "Ham Ninh, Phu Quoc Island, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/45928475/0/30e00bf0414cb8b2688c8ca1bbf5f59d.jpg?ce=0&s=1024x768",
+  "price": 800
+},
+{
+  "_id": 35958304,
+  "name": "Wyndham Garden Grandworld Phu Quoc",
+  "address": "Gành Dầu, Phu Quoc Island, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/35958304/-1/54548d6664ac9ea8482f31f2d74dc498.jpg?ce=0&s=1024x768",
+  "price": 710
+},
+{
+  "_id": 34393542,
+  "name": "Valentina Resort & Spa Phu Quoc",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/34393542/-1/3a11baefac8d186358e865086f1560e3.jpg?ce=0&s=1024x768",
+  "price": 580
+},
+{
+  "_id": 18959733,
+  "name": "Andochine Villas Resort & Spa – All Villas with Private Pool",
+  "address": "Dương Tơ, Phu Quoc Island, Vietnam",
+  "rating": 4.5,
+  "image": "//pix6.agoda.net/hotelImages/18959733/-1/1ad8c7632235f74af4ea36428e86cebe.jpg?ce=0&s=1024x768",
+  "price": 760
+},
+{
+  "_id": 569108,
+  "name": "Salinda Resort Phu Quoc - Sparkling Wine Breakfast",
+  "address": "Cửa Lấp, Phu Quoc Island, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/569108/-1/5d5d99e3b3795c23a287e1b941811739.jpg?ca=15&ce=1&s=1024x768",
+  "price": 650
+},
+{
+  "_id": 6840865,
+  "name": "Island Lodge Phu Quoc",
+  "address": "Ong Lang, Phu Quoc Island, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/6840865/-1/9dddcf65318d6c3bee76167b78909af4.jpg?ca=8&ce=1&s=1024x768",
+  "price": 1730
+},
+{
+  "_id": 488842,
+  "name": "Venus Hotel & Sky Bar Phu Quoc",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/488842/-1/80dc2c7b6c610fd4cd9fb2784605b475.jpg?ce=0&s=1024x768",
+  "price": 1660
+},
+{
+  "_id": 44853498,
+  "name": "Have Fun Phú Quốc",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/44853498/0/8e57a41282ad809e3cb7a059b4741baa.jpg?ce=0&s=1024x768",
+  "price": 1180
+},
+{
+  "_id": 237074,
+  "name": "Sea Star Resort",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/237/237074/237074_16122612330049921767.jpg?ca=6&ce=1&s=1024x768",
+  "price": 1380
+},
+{
+  "_id": 625168,
+  "name": "Vinpearl Resort & Spa Phú Quốc",
+  "address": "Gành Dầu, Phu Quoc Island, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/625168/-1/3dd5dcbcfdd9509dfe470905adad972a.jpg?ce=0&s=1024x768",
+  "price": 850
+},
+{
+  "_id": 17242876,
+  "name": "Vinholidays Fiesta Phú Quốc",
+  "address": "Gành Dầu, Phu Quoc Island, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/17242876/-1/77f13db2325ef043d92a740cc551e1f8.jpg?ca=19&ce=1&s=1024x768",
+  "price": 880
+},
+{
+  "_id": 7093952,
+  "name": "Tahiti Resort",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/7093952/-1/741c1a918818301cbda7d99b4fe3bf8f.jpg?ca=9&ce=1&s=1024x768",
+  "price": 550
+},
+{
+  "_id": 1266957,
+  "name": "SOL By Melia Phu Quoc",
+  "address": "Dương Tơ, Phu Quoc Island, Vietnam",
+  "rating": 4.5,
+  "image": "//pix6.agoda.net/hotelImages/1266957/-1/b0ec3a1ca09f39bae2b4725f6b0c967b.jpg?ca=7&ce=1&s=1024x768",
+  "price": 1480
+},
+{
+  "_id": 1624612,
+  "name": "Muong Thanh Luxury Phu Quoc Hotel",
+  "address": "Dương Tơ, Phu Quoc Island, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/1624612/-1/e83069440bf0d6965fa4d3274b318ad4.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1310
+},
+{
+  "_id": 34562069,
+  "name": "Best Western Premier Sonasea Villas Phu Quoc",
+  "address": "Dương Tơ, Phu Quoc Island, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/34562069/-1/d701f170e915f08c792e897e17ce92ad.jpg?ce=0&s=1024x768",
+  "price": 1350
+},
+{
+  "_id": 1615734,
+  "name": "Nesta Hotel Phu Quoc",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/1615734/-1/434f5e29b4d098964c3735eabc4d3835.jpg?ce=0&s=1024x768",
+  "price": 1100
+},
+{
+  "_id": 30959184,
+  "name": "Santa Garden Resort",
+  "address": "Cửa Lấp, Phu Quoc Island, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/30959184/-1/d4d44c84b8115bde8e792bdfc67045d0.jpg?ca=28&ce=0&s=1024x768",
+  "price": 570
+},
+{
+  "_id": 11013,
+  "name": "Saigon Phu Quoc Resort and Spa",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 4.5,
+  "image": "//pix6.agoda.net/hotelImages/110/11013/11013_14072813300020518261.jpg?ca=2&ce=1&s=1024x768",
+  "price": 1930
+},
+{
+  "_id": 47208010,
+  "name": "Luxy Park Hotel & Residences-Phu Quoc City Centre",
+  "address": "Duong Dong, Phu Quoc Island, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/47208010/-1/b5a40864d5356d9768e86e92e6a1d9fe.jpg?ce=0&s=1024x768",
+  "price": 750
+},
+{
+  "_id": 16936272,
+  "name": "Dalat Sa - LemonGrass",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/16936272/-1/83cc4cdbc6552ec1e9b0e8fb5ba72833.jpg?ca=17&ce=1&s=1024x768",
+  "price": 910
+},
+{
+  "_id": 37817834,
+  "name": "La FLeur 2 Luxury Garden Hotel",
+  "address": "Tuyen Lam Lake, Dalat, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/37817834/-1/90915a0870184622894e023cb1f8085b.png?ce=0&s=1024x768",
+  "price": 590
+},
+{
+  "_id": 18066378,
+  "name": "La Fleur Premium Central Apartment Dalat",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/18066378/-1/03a7b72693bc246ba4ba6379219d84bd.jpg?ca=25&ce=0&s=1024x768",
+  "price": 1340
+},
+{
+  "_id": 41455514,
+  "name": "Goldient Boutique Hotel",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/41455514/-1/d8e6c62951c23020535c28cbfff56e41.jpg?ce=0&s=1024x768",
+  "price": 830
+},
+{
+  "_id": 42170596,
+  "name": "Nap o TEEPEE Homestay",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/42170596/-1/de6c14f4f5d4cbeee058e68d486e1dc5.png?ce=0&s=1024x768",
+  "price": 840
+},
+{
+  "_id": 42033095,
+  "name": "ECOTIME Villa -  Homestay",
+  "address": "Love Valley / Dream Hill, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/42033095/-1/5b08d2aef6145998a732be2c486a4f58.jpg?ce=0&s=1024x768",
+  "price": 1300
+},
+{
+  "_id": 5161298,
+  "name": "HANZ Thien Nien Ky Hotel Dalat",
+  "address": "Cam Ly Falls, Dalat, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/5161298/184744553/55d986ee13d82e36422fe83714bed2cb.jpg?ce=0&s=1024x768",
+  "price": 650
+},
+{
+  "_id": 10954459,
+  "name": "Capital O 585 Saigon Book Da Lat Hotel",
+  "address": "Xuân Hương Lake Area, Dalat, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/10954459/-1/239f93939ea1bd30c5664953e2f646b6.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1540
+},
+{
+  "_id": 16720878,
+  "name": "Ex Villa Da Lat - Romantic Valley View",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/16720878/-1/7e697238cc6e8d99b368c5786d9b5a3d.jpg?ce=0&s=1024x768",
+  "price": 1560
+},
+{
+  "_id": 16364644,
+  "name": "M Hotel",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/163/16364644/16364644_20072115450091671374.jpg?ca=12&ce=1&s=1024x768",
+  "price": 1730
+},
+{
+  "_id": 38944688,
+  "name": "Khach San DaLatView - Cach Cho Đa Lat Chi 20met",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/450992448.jpg?k=853859abb6a09705e8666df37d54c2c8b59d5b56701ba145e0fb1979c9a7a030&o=",
+  "price": 690
+},
+{
+  "_id": 38667153,
+  "name": "The New House",
+  "address": "Old Train Station, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/446891879.jpg?k=4fede45e561211cb566b71f4557258e8bf0e3a26096fef58ecc334b63c281f95&o=",
+  "price": 510
+},
+{
+  "_id": 32200151,
+  "name": "De La Sol Villa Đà Lạt",
+  "address": "Dalat, Dalat, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/32200151/-1/8ac0542d2ed02c39509acb2b6fc187a1.jpg?ce=0&s=1024x768",
+  "price": 1700
+},
+{
+  "_id": 7125752,
+  "name": "Dalat Boutique Hotel",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/712/7125752/7125752_19042615040074074930.jpg?ca=8&ce=1&s=1024x768",
+  "price": 1880
+},
+{
+  "_id": 7223241,
+  "name": "New Century Dalat Hotel ",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/7223241/-1/180783ca83e987d70b62646c159af03e.jpg?ce=0&s=1024x768",
+  "price": 1720
+},
+{
+  "_id": 1214441,
+  "name": "Yolo Camping House",
+  "address": "Tuyen Lam Lake, Dalat, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/1214441/-1/cf8422fb83944967203ba1af1ade9c77.jpg?ca=24&ce=0&s=1024x768",
+  "price": 1230
+},
+{
+  "_id": 35994098,
+  "name": "The Morris Hotel",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/35994098/-1/23f80f250bd18df1dfffedce97a3400c.jpg?ce=0&s=1024x768",
+  "price": 1270
+},
+{
+  "_id": 6600075,
+  "name": "Phu My Toan Hotel",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/6600075/-1/bd36788ea5dfd3ae3bc1ed07000230f6.jpg?ce=0&s=1024x768",
+  "price": 830
+},
+{
+  "_id": 23125479,
+  "name": "Ami Boutique Hotel Dalat",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/23125479/-1/46cc47cf1d34a6983c1d4faafa3c30d5.png?ce=0&s=1024x768",
+  "price": 790
+},
+{
+  "_id": 9344636,
+  "name": "Banyan Boutique by 5H",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/9344636/-1/6daade77f36191bdebe8a6dbb4851318.jpg?ce=0&s=1024x768",
+  "price": 1870
+},
+{
+  "_id": 33653508,
+  "name": "Pine Tree Homestay",
+  "address": "Love Valley / Dream Hill, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/33653508/-1/ab8150b06dcc49921ced61779df5605e.jpg?ce=0&s=1024x768",
+  "price": 610
+},
+{
+  "_id": 18866970,
+  "name": "Đen long homestay & coffee",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/18866970/-1/376caa3e83a4dff8efd2c4eb8d38fa2e.jpg?ce=0&s=1024x768",
+  "price": 1960
+},
+{
+  "_id": 11096285,
+  "name": "Victorian Hotel Dalat",
+  "address": "Cam Ly Falls, Dalat, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/11096285/-1/6da07e45cc209d6b05a87aa4f78f0676.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1410
+},
+{
+  "_id": 16784780,
+  "name": "Be U Hotel",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/16784780/-1/7f2dfd24a8e002c1280c5e24ad1a1216.jpg?ce=0&s=1024x768",
+  "price": 770
+},
+{
+  "_id": 46058567,
+  "name": "Summer Stay - Đà Lạt",
+  "address": "Old Train Station, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/46058567/-1/ee9e52f4519af6624cdbb1933d5efb46.jpg?ce=0&s=1024x768",
+  "price": 810
+},
+{
+  "_id": 48877472,
+  "name": "TIGOLD HOSTEL DALAT INN",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/514927254.jpg?k=07f63515f61fe62c6c0a698708eb949180898779f371e86123230e78905541e0&o=",
+  "price": 1870
+},
+{
+  "_id": 14880393,
+  "name": "HANZ Chuong Hotel",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/14880393/327235831/754b8603fc67ad444dcbac1b6e217432.jpg?ce=0&s=1024x768",
+  "price": 910
+},
+{
+  "_id": 22063480,
+  "name": "Royal Palace",
+  "address": "Dalat City Center, Dalat, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/22063480/-1/679f1688d1e928a776575ea65da544f7.jpg?ce=0&s=1024x768",
+  "price": 1440
+},
+{
+  "_id": 33941483,
+  "name": "THE SÓNG APARTMENT VŨNG TÀU -  TRINH'S HOUSE",
+  "address": "Thang Tam, Vung Tau, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/33941483/-1/92d9a6b76b12954fb5a87a1169633369.jpg?ce=0&s=1024x768",
+  "price": 1240
+},
+{
+  "_id": 39913715,
+  "name": "Vung Tau The Song Apartment - Paris Homestay",
+  "address": "Thang Tam, Vung Tau, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/39913715/-1/3915a1bd35104ccc54e0d254535b13db.jpg?ce=0&s=1024x768",
+  "price": 1910
+},
+{
+  "_id": 5436583,
+  "name": "Vias Hotel Vung Tau",
+  "address": "Phường 8, Vung Tau, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/5436583/-1/e7507b49865c24d0cfeead6ff187839b.jpg?ce=0&s=1024x768",
+  "price": 1300
+},
+{
+  "_id": 30892351,
+  "name": "Camy A Sin Hotel & Apartment",
+  "address": "Phường 2, Vung Tau, Vietnam",
+  "rating": 1,
+  "image": "//pix6.agoda.net/hotelImages/30892351/-1/7c6bb40bed8b151d0f448a1e146767e8.jpg?ca=28&ce=0&s=1024x768",
+  "price": 1330
+},
+{
+  "_id": 35937927,
+  "name": "The Song Apartment Vung Tau- Paris Homestay",
+  "address": "Thang Tam, Vung Tau, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/35937927/0/d949a148bde41804bcdb576524f17268.jpg?ce=0&s=1024x768",
+  "price": 1840
+},
+{
+  "_id": 4911388,
+  "name": "Joi Hospitality - Central",
+  "address": "Phường 3, Vung Tau, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/4911388/-1/fe635f3355630b6d8b8399d0a039c7ca.png?ce=0&s=1024x768",
+  "price": 640
+},
+{
+  "_id": 32006799,
+  "name": "Quang Anh Hotel by The Moment",
+  "address": "Phường 8, Vung Tau, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/32006799/0/5e274d40113d5eab6a9a07d32d24c0e1.jpg?ca=29&ce=0&s=1024x768",
+  "price": 570
+},
+{
+  "_id": 6325334,
+  "name": "Prague Hotel Vung Tau",
+  "address": "Phường 8, Vung Tau, Vietnam",
+  "rating": 4.5,
+  "image": "//pix6.agoda.net/hotelImages/6325334/-1/abedb3c0faa64e3a5ed092bc343485e4.jpg?ca=8&ce=1&s=1024x768",
+  "price": 690
+},
+{
+  "_id": 11024791,
+  "name": "ibis Styles Vung Tau",
+  "address": "Thang Tam, Vung Tau, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/11024791/-1/39e7e6422ebd0a38ebfb34186d163531.jpg?ca=10&ce=1&s=1024x768",
+  "price": 1650
+},
+{
+  "_id": 31717323,
+  "name": "Kim Minh Boutique - Luxury Hotel & Apartment",
+  "address": "Phường 1, Vung Tau, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/31717323/-1/94ed6a0159886d83f68f05c428e9fee5.jpg?ce=0&s=1024x768",
+  "price": 560
+},
+{
+  "_id": 33855179,
+  "name": "Nin Garden Homestay ",
+  "address": "Phường 2, Vung Tau, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/33855179/0/168a80794e34b405b2e2e2ce3d916ea8.jpg?ce=0&s=1024x768",
+  "price": 850
+},
+{
+  "_id": 4410268,
+  "name": "Lan Rung Phuoc Hai Resort and Spa",
+  "address": "Phuoc Hai Beach, Vung Tau, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/4410268/-1/0faa9ca01279ee535bad370454547760.jpg?ce=0&s=1024x768",
+  "price": 1540
+},
+{
+  "_id": 48511716,
+  "name": "MONTANA HOMESTAY VUNG TAU",
+  "address": "Phường 2, Vung Tau, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/48511716/-1/5b5445e036036a3196a8a7e810d5f792.jpg?ce=0&s=1024x768",
+  "price": 590
+},
+{
+  "_id": 30040800,
+  "name": "Fati Boutique Hotel & Apartment",
+  "address": "Phường 5, Vung Tau, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/334369428.jpg?k=3a23acc5646f24ef9e7d9f9df5c91b7974dfd4d2d840dd9dfa0209fd76451cad&o=",
+  "price": 980
+},
+{
+  "_id": 6944885,
+  "name": "Marina Bay Vung Tau Resort & Spa",
+  "address": "Phường 5, Vung Tau, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/6944885/-1/e18e282e871e452f1ebfb5751f597cce.jpg?ca=8&ce=1&s=1024x768",
+  "price": 1860
+},
+{
+  "_id": 2282120,
+  "name": "Dream Box Hostel",
+  "address": "Phường 1, Vung Tau, Vietnam",
+  "rating": 1,
+  "image": "//pix6.agoda.net/hotelImages/228/2282120/2282120_17081118050055339293.jpg?ca=6&ce=1&s=1024x768",
+  "price": 790
+},
+{
+  "_id": 7394456,
+  "name": "Annata Beach Hotel",
+  "address": "Thang Tam, Vung Tau, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/7394456/-1/48de5dd74d4b166cc83f24cfd8758375.jpg?ce=0&s=1024x768",
+  "price": 1360
+},
+{
+  "_id": 1803444,
+  "name": "Phoenix Hotel",
+  "address": "Thang Tam, Vung Tau, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/1803444/-1/be248ea5d96494485e34ad56fea4f364.jpg?ce=0&s=1024x768",
+  "price": 800
+},
+{
+  "_id": 11017,
+  "name": "Rex Hotel Vung Tau",
+  "address": "Phường 1, Vung Tau, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/11017/-1/3e4ba663f8a6c48698079b42b3a1926c.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1400
+},
+{
+  "_id": 22642078,
+  "name": "Premier Pearl Hotel Vung Tau",
+  "address": "Phường 2, Vung Tau, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/22642078/-1/8e616626f2526e72fe3ce3ea8d72dad2.jpg?ce=0&s=1024x768",
+  "price": 770
+},
+{
+  "_id": 37186304,
+  "name": "Chi’s House",
+  "address": "Phường 2, Vung Tau, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/419590615.jpg?k=1d5c949954cec9401230902b82e0b3c0af33fcbf923be7ca330db9f98ee207ec&o=",
+  "price": 1120
+},
+{
+  "_id": 9596109,
+  "name": "The Ruong Resort",
+  "address": "Ho Coc, Vung Tau, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/9596109/-1/eb51356f1de64e54325c33b587e496ac.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1450
+},
+{
+  "_id": 38249244,
+  "name": "The Sóng Vũng Tàu Homestay - VTLand",
+  "address": "Thang Tam, Vung Tau, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/38249244/-1/d7942d3472e5fa7682b4d78ae6fca357.png?ce=0&s=1024x768",
+  "price": 1680
+},
+{
+  "_id": 12168999,
+  "name": "Cen Hotel",
+  "address": "Thang Tam, Vung Tau, Vietnam",
+  "rating": 2,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/242666738.jpg?k=41e43cb2951f3b8f3381081466fe9dbf2b5b7327f525db7de25c1180632a40b5&o=",
+  "price": 640
+},
+{
+  "_id": 33829122,
+  "name": "Hôtel D'Melin",
+  "address": "Phường 2, Vung Tau, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/33829122/-1/3792867ef4c050169c4ad5d9d229268a.png?ce=0&s=1024x768",
+  "price": 1710
+},
+{
+  "_id": 32179308,
+  "name": "Mercury Hotel & Apartment",
+  "address": "Phường 1, Vung Tau, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/32179308/-1/b8e48926ad88407e4e29beea0c059646.jpg?ce=0&s=1024x768",
+  "price": 1990
+},
+{
+  "_id": 41591306,
+  "name": "PLUS VUNG TAU HOTEL",
+  "address": "Thang Tam, Vung Tau, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/41591306/0/283fc0430ce8573d739b9a1cfda1161e.jpg?ce=0&s=1024x768",
+  "price": 1400
+},
+{
+  "_id": 251880,
+  "name": "Kieu Anh Hotel",
+  "address": "Phường 8, Vung Tau, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/251880/-1/44ccccbf3d1b98488f4026855b9a4d80.jpg?ce=0&s=1024x768",
+  "price": 1780
+},
+{
+  "_id": 288606,
+  "name": "Mui Ne Resort managed by The Sinh Tourist",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 2.5,
+  "image": "//pix6.agoda.net/hotelImages/288/288606/288606_15070113510031481600.jpg?ca=4&ce=1&s=1024x768",
+  "price": 1640
+},
+{
+  "_id": 503050,
+  "name": "Ananda Resort",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/503/503050/503050_13111220250017389991.jpg?ca=2&ce=1&s=1024x768",
+  "price": 1560
+},
+{
+  "_id": 37875166,
+  "name": "Mandala Cham Bay Mui Ne",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/37875166/-1/0526248120f403358888e5f67ad7056c.png?ce=0&s=1024x768",
+  "price": 1730
+},
+{
+  "_id": 11008,
+  "name": "Bamboo Village Beach Resort",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/11008/-1/5ec571372bd463c7addd0a2f20d5cbed.jpg?ce=0&s=1024x768",
+  "price": 1740
+},
+{
+  "_id": 41457853,
+  "name": "M Continental by Mandala Mui Ne",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/41457853/-1/28d2e63f3b48683f38c4daccadb2592b.jpg?ce=0&s=1024x768",
+  "price": 1150
+},
+{
+  "_id": 6498145,
+  "name": "PHouse Hotel",
+  "address": "Phú Thủy, Phan Thiet, Vietnam",
+  "rating": 1.5,
+  "image": "//pix6.agoda.net/hotelImages/6498145/-1/1dc656f842cbd2f82e1f09c9876ea2f0.jpg?ca=9&ce=1&s=1024x768",
+  "price": 570
+},
+{
+  "_id": 1060200,
+  "name": "Delight Hotel Mui Ne",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/106/1060200/1060200_17040223310052091218.jpg?ca=6&ce=1&s=1024x768",
+  "price": 1030
+},
+{
+  "_id": 40712766,
+  "name": "The first village",
+  "address": "Ham Thuan Nam, Phan Thiet, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/464916584.jpg?k=11599c38acce31b97277f268217a56ebf57ae7c963d9dac4bc6ddc963b8fb6f7&o=",
+  "price": 1350
+},
+{
+  "_id": 167455,
+  "name": "Canary Beach Resort",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/167/167455/167455_15082813280035267510.jpg?ca=5&ce=1&s=1024x768",
+  "price": 1890
+},
+{
+  "_id": 44839067,
+  "name": "Lá Homestay Mui Ne",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 1,
+  "image": "//pix6.agoda.net/hotelImages/44839067/0/679a530e401125521340e250ee976915.jpg?ce=0&s=1024x768",
+  "price": 1640
+},
+{
+  "_id": 149149,
+  "name": "Le Viva Muine Resort",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/149149/-1/b202b181e3bd4cf90a31935bda486068.jpg?ce=0&s=1024x768",
+  "price": 510
+},
+{
+  "_id": 6255332,
+  "name": "Meraki Oasis Hotel",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 2.5,
+  "image": "//pix6.agoda.net/hotelImages/6255332/-1/6f7cf3f98a434874e0686ae744da5d55.jpg?ca=10&ce=1&s=1024x768",
+  "price": 1120
+},
+{
+  "_id": 46886359,
+  "name": "Nu Cuoi Mui Ne Hotel & Restaurant",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/46886359/747978384/3c09e57dc17474c8a248ede8d655fddd.jpg?ce=0&s=1024x768",
+  "price": 1170
+},
+{
+  "_id": 37871271,
+  "name": "RUBENS BOUTIQUE HOTEL",
+  "address": "Phú Thủy, Phan Thiet, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/37871271/-1/95afe99dc39499b0afb27618eb7b2066.jpg?ce=0&s=1024x768",
+  "price": 1300
+},
+{
+  "_id": 247814,
+  "name": "MuiNe Century Beach Resort and Spa",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/247/247814/247814_15081311020034183951.jpg?ca=5&ce=1&s=1024x768",
+  "price": 970
+},
+{
+  "_id": 46592007,
+  "name": "APEC MANDALA MUI NE ViCTOR CONDOTEL",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/46592007/-1/068081bc83ab5f3b084aa24099e51c29.jpg?ce=0&s=1024x768",
+  "price": 1850
+},
+{
+  "_id": 1952883,
+  "name": "Farosea Hotels & Resort",
+  "address": "Ham Thuan Nam, Phan Thiet, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/1952883/-1/327935a72dcd13807e5385aff11de807.jpg?ce=0&s=1024x768",
+  "price": 1280
+},
+{
+  "_id": 47369301,
+  "name": "Wonderland Resort Phan Thiet",
+  "address": "Tien Thanh, Phan Thiet, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/47369301/-1/61a499e6021b46e9d596cc1041c8b68c.jpg?ce=0&s=1024x768",
+  "price": 870
+},
+{
+  "_id": 410131,
+  "name": "The Sailing Bay Beach Resort",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/410/410131/410131_15032310340026342758.jpg?ca=3&ce=1&s=1024x768",
+  "price": 1460
+},
+{
+  "_id": 6884574,
+  "name": "Pacific Beach Resort",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 2.5,
+  "image": "//pix6.agoda.net/hotelImages/6884574/-1/92ac7c0f1d9f014821031d8485b180f9.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1170
+},
+{
+  "_id": 36919943,
+  "name": "Tuong Boutique",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/36919943/-1/18db0c4be0c92ffc7003587fd8e196be.jpg?ce=0&s=1024x768",
+  "price": 1330
+},
+{
+  "_id": 240655,
+  "name": "Swiss Village Resort & Spa",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/240655/-1/c26ff11061fb39f25881e99106c1d7d8.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1720
+},
+{
+  "_id": 47369476,
+  "name": "K-Town Resort Phan Thiet",
+  "address": "Tien Thanh, Phan Thiet, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/47369476/0/bdcbf1c3ac9e969e29ea8f7d9f90824a.jpg?ce=0&s=1024x768",
+  "price": 1020
+},
+{
+  "_id": 48004348,
+  "name": "The Clay Resort",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/48004348/0/c35dd8357f934cc28add925add68a58a.jpg?ce=0&s=1024x768",
+  "price": 1370
+},
+{
+  "_id": 262815,
+  "name": "Lotus Village Resort - Muine",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/262/262815/262815_14063017220020093265.jpg?ca=2&ce=1&s=1024x768",
+  "price": 1790
+},
+{
+  "_id": 5647641,
+  "name": "EVA HUT Mui Ne Beach Hostel",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/5647641/-1/45ee96c8c2b177ffcd99818b6b6387f0.jpg?ca=7&ce=1&s=1024x768",
+  "price": 900
+},
+{
+  "_id": 400981,
+  "name": "Hai Yen Family Resort",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/400981/-1/046fd6f34f6b1a27caa3bd4367648620.jpg?ce=0&s=1024x768",
+  "price": 630
+},
+{
+  "_id": 44889967,
+  "name": "Mui Ne Paradise Resort",
+  "address": "Mũi Né, Phan Thiet, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/44889967/-1/808bf5ed045d808be6f0be410ee58905.jpg?ce=0&s=1024x768",
+  "price": 1510
+},
+{
+  "_id": 4915152,
+  "name": "Amona Hotel",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/4915152/-1/d85d4b9c8147cdddaf6541f2e9ee9acc.jpg?ca=7&ce=1&s=1024x768",
+  "price": 530
+},
+{
+  "_id": 39589147,
+  "name": "Shine Hotel Huế",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/39589147/0/507da4472cc88d8789880e8e667cfaff.jpg?ce=0&s=1024x768",
+  "price": 850
+},
+{
+  "_id": 5820384,
+  "name": "The Sunriver Boutique Hotel Hue",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/5820384/-1/e12a3a7030e3a3bcc869c3e62d65f3d2.jpg?ca=7&ce=1&s=1024x768",
+  "price": 920
+},
+{
+  "_id": 11002,
+  "name": "Huong Giang Hotel Resort & Spa",
+  "address": "Perfume River, Hue, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/11002/-1/d1aa0a91f2e47ce27b61b4037060ecf8.jpg?ca=8&ce=1&s=1024x768",
+  "price": 1340
+},
+{
+  "_id": 46749250,
+  "name": "Cosy Homestay Huế",
+  "address": "Imperial Citadel, Hue, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/46749250/746333013/e01cef1fb856f9d136cbac47e4cf33a8.jpg?ce=0&s=1024x768",
+  "price": 1150
+},
+{
+  "_id": 28013898,
+  "name": "The Dreamers Homestay",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/319049763.jpg?k=47670a3cf129c565d84527c2fe8b0366aaea891c7628a332cf9fbb4a359a0e1d&o=",
+  "price": 1380
+},
+{
+  "_id": 39593643,
+  "name": "VYA homestay Hue",
+  "address": "Perfume River, Hue, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/490881176.jpg?k=1c2e60d0538dc3e5c3825434587c6e476f7d623cd564b3e899df0e181c828561&o=",
+  "price": 1030
+},
+{
+  "_id": 35484077,
+  "name": "The Chill",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/405362322.jpg?k=e1b92963d0e330a20552835f2708318b92fa726a0d2d007642773310ba9d5bd6&o=",
+  "price": 970
+},
+{
+  "_id": 240057,
+  "name": "Amigo Hotel",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 1,
+  "image": "//pix6.agoda.net/hotelImages/240/240057/240057_20102212140092837665.jpg?ca=14&ce=1&s=1024x768",
+  "price": 1820
+},
+{
+  "_id": 5111500,
+  "name": "Gardenia Hue Hotel",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/5111500/-1/0cda5b8284490b006b761c184b15eafd.jpg?ca=13&ce=1&s=1024x768",
+  "price": 800
+},
+{
+  "_id": 1197800,
+  "name": "Bien Khoi Mini Hotel",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/119/1197800/1197800_16051012110042189612.jpg?ca=6&ce=1&s=1024x768",
+  "price": 630
+},
+{
+  "_id": 5663891,
+  "name": "Melia Vinpearl Hue",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/5663891/-1/c70525022b7d06c2b56fdf6d14689357.jpg?ce=0&s=1024x768",
+  "price": 1240
+},
+{
+  "_id": 181769,
+  "name": "Tran Ly Hotel",
+  "address": "Perfume River, Hue, Vietnam",
+  "rating": 1,
+  "image": "//pix6.agoda.net/hotelImages/181769/-1/4b039989dd408983c685b154fa2ef0f6.jpg?ca=7&ce=1&s=1024x768",
+  "price": 1770
+},
+{
+  "_id": 11001,
+  "name": "Saigon Morin Hotel",
+  "address": "Perfume River, Hue, Vietnam",
+  "rating": 4.5,
+  "image": "//pix6.agoda.net/hotelImages/11001/-1/7308bb40bc16a01bb02c6ee794050b00.jpg?ca=0&ce=1&s=1024x768",
+  "price": 900
+},
+{
+  "_id": 46120649,
+  "name": "Mandarin Homestay Hue",
+  "address": "Imperial Citadel, Hue, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/46120649/737017380/f31ca783116a098bc1f1bda19eff1113.jpg?ce=0&s=1024x768",
+  "price": 1510
+},
+{
+  "_id": 38858115,
+  "name": "TheDreamers Farm",
+  "address": "Tam Giang Lagoon, Hue, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/464229256.jpg?k=22014e4dbffd10100557e3fefa5e588cf6d145972d8a9d19468b3955bb159de8&o=",
+  "price": 620
+},
+{
+  "_id": 38707693,
+  "name": "Na Hostel Huế",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/38707693/-1/7765cd92c05d881ab42d3a424b0ace51.jpg?ce=0&s=1024x768",
+  "price": 1230
+},
+{
+  "_id": 37331206,
+  "name": "Lucky Home",
+  "address": "Imperial Citadel, Hue, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/37331206/0/b4ab7d87d2d48bed277353e789453216.jpg?ce=0&s=1024x768",
+  "price": 1170
+},
+{
+  "_id": 31042431,
+  "name": "Bình An Hostel",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/31042431/0/7fc6e98fa036249cfc886d995985e266.jpg?ca=28&ce=0&s=1024x768",
+  "price": 1260
+},
+{
+  "_id": 28700464,
+  "name": "SEA HOMESTAY",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/28700464/-1/68b4beca18ed79d778c1b6b0a01b9460.jpg?ca=23&ce=0&s=1024x768",
+  "price": 760
+},
+{
+  "_id": 479590,
+  "name": "Champa Hue Hotel",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/479/479590/479590_13091521230015356366.jpg?ca=0&ce=1&s=1024x768",
+  "price": 1380
+},
+{
+  "_id": 47411993,
+  "name": "Hon Chen House ",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/47411993/0/26564df8501272703aa5a19d51ecf136.jpg?ce=0&s=1024x768",
+  "price": 1570
+},
+{
+  "_id": 251872,
+  "name": "Hong Thang Hotel",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/251/251872/251872_15062911240031126673.jpg?ca=4&ce=1&s=1024x768",
+  "price": 990
+},
+{
+  "_id": 29851030,
+  "name": "Jade Scene Hotel",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/29851030/-1/9c31a7411cf37de20fb3b93965c663cd.jpg?ce=0&s=1024x768",
+  "price": 1320
+},
+{
+  "_id": 34198470,
+  "name": "LA VELA HUE HOTEL",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/34198470/-1/2de22a6cde89f0bb7160fbf971d3e511.png?ce=0&s=1024x768",
+  "price": 1860
+},
+{
+  "_id": 173590,
+  "name": "Ideal Hotel Hue",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/173/173590/173590_14061315390019843628.jpg?ca=2&ce=1&s=1024x768",
+  "price": 1940
+},
+{
+  "_id": 52069,
+  "name": "Thai Binh 2 Hotel",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/520/52069/52069_14102511020022954967.jpg?ca=3&ce=1&s=1024x768",
+  "price": 1220
+},
+{
+  "_id": 65117,
+  "name": "Jasmine Hotel",
+  "address": "Hue City, Hue, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/651/65117/65117_16012909340039481541.jpg?ca=6&ce=1&s=1024x768",
+  "price": 1250
+},
+{
+  "_id": 1621453,
+  "name": "Senvila Boutique Resort",
+  "address": "Cam Thanh, Hoi An, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/1621453/-1/66a611d250acad16dbbac80f4fac7858.jpg?ce=0&s=1024x768",
+  "price": 1500
+},
+{
+  "_id": 2090182,
+  "name": "La Siesta Hoi An Resort & Spa",
+  "address": "Thanh Ha, Hoi An, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/2090182/535778142/64effeb309ae757356598c67804b1ba0.jpg?ce=0&s=1024x768",
+  "price": 1500
+},
+{
+  "_id": 7027885,
+  "name": "Anio Boutique Hotel Hoi An",
+  "address": "Cam Chau, Hoi An, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/7027885/-1/fe86b32005fd0f8efd25baacb2c6deff.jpg?ca=9&ce=1&s=1024x768",
+  "price": 990
+},
+{
+  "_id": 1195833,
+  "name": "RiverTown Hoi An Resort & Spa",
+  "address": "Cẩm Phô, Hoi An, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/1195833/-1/7f0d72007b212d2dd4d2e5fe26725036.jpg?ca=29&ce=0&s=1024x768",
+  "price": 790
+},
+{
+  "_id": 4972289,
+  "name": "Hoi An Reverie Villas",
+  "address": "Thanh Ha, Hoi An, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/4972289/-1/caffe922da7f5c637ccb944abd36143b.jpg?ca=9&ce=1&s=1024x768",
+  "price": 700
+},
+{
+  "_id": 16296813,
+  "name": "Sam Sam Homestay Hoi An",
+  "address": "Cẩm Phô, Hoi An, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/16296813/-1/977f89d8205a5c87f2c30ab5cad372f6.jpg?ce=0&s=1024x768",
+  "price": 1520
+},
+{
+  "_id": 161820,
+  "name": "Thanh Binh Central Hotel",
+  "address": "Cẩm Phô, Hoi An, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/161820/-1/9dbc4c51594813984b92a708f2d2f65e.png?ca=10&ce=1&s=1024x768",
+  "price": 1400
+},
+{
+  "_id": 16347350,
+  "name": "Anh Family Homestay",
+  "address": "Cẩm Phô, Hoi An, Vietnam",
+  "rating": 2.5,
+  "image": "//pix6.agoda.net/hotelImages/16347350/-1/5341531c867a92c16c417e5b563d41f8.jpg?ca=12&ce=1&s=1024x768",
+  "price": 1330
+},
+{
+  "_id": 50113,
+  "name": "Oriental Boutique Hoi An",
+  "address": "Cam Chau, Hoi An, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/50113/-1/3fc1c18189ebfbb3bda5ba9a0c6b67b1.jpg?ce=0&s=1024x768",
+  "price": 1720
+},
+{
+  "_id": 38785243,
+  "name": "Anmira Resort & Spa Hoi An",
+  "address": "Cam Chau, Hoi An, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/38785243/-1/49ca2e07b89dee7511d0a9116cff4d85.jpg?ce=0&s=1024x768",
+  "price": 1590
+},
+{
+  "_id": 21727448,
+  "name": "Hoi An Memories Resort & Spa",
+  "address": "Cam Nam, Hoi An, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/21727448/-1/b29e0dc5346a5f8dd259d5c119aec256.jpg?ce=0&s=1024x768",
+  "price": 1010
+},
+{
+  "_id": 2225333,
+  "name": "Silk Sense Hoi An River Resort",
+  "address": "Cam An, Hoi An, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/2225333/-1/f80178d804802f37703653a9b66126b4.jpg?ce=0&s=1024x768",
+  "price": 780
+},
+{
+  "_id": 489181,
+  "name": "LEGACY HOI AN RESORT",
+  "address": "Cam Thanh, Hoi An, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/489181/-1/6a6d524496a3b6a1cc55438a1ef5f53f.jpg?ca=10&ce=1&s=1024x768",
+  "price": 1680
+},
+{
+  "_id": 686575,
+  "name": "Almanity Hoi An Resort & Spa",
+  "address": "Cẩm Phô, Hoi An, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/686575/-1/b1faa72f831740ee51c573c8885a9a3c.jpg?ce=0&s=1024x768",
+  "price": 1470
+},
+{
+  "_id": 2849230,
+  "name": "Tran Family Villas Boutique Hotel",
+  "address": "Cẩm Phô, Hoi An, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/2849230/-1/209b778d8e2d6e7a95eb5eca42215a01.jpg?ca=6&ce=1&s=1024x768",
+  "price": 650
+},
+{
+  "_id": 230719,
+  "name": "Hai Au Boutique Hotel and Spa",
+  "address": "Cam Chau, Hoi An, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/230/230719/230719_17093015520056933646.png?ca=6&ce=1&s=1024x768",
+  "price": 1180
+},
+{
+  "_id": 35495863,
+  "name": "Alley Garden Homestay Hoi An",
+  "address": "Cẩm Phô, Hoi An, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/35495863/0/397602575143846072511d9f82185289.jpg?ce=0&s=1024x768",
+  "price": 1700
+},
+{
+  "_id": 3008438,
+  "name": "OYO 473 Suburban Villa",
+  "address": "Cam Nam, Hoi An, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/3008438/-1/fb5088669602395abcd420553893f4c0.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1090
+},
+{
+  "_id": 34333799,
+  "name": "SEA AND SAND HOI AN HOTEL",
+  "address": "Cửa Đại, Hoi An, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/34333799/-1/0e99d02213b0786cb8d04d67381f461d.jpg?ce=0&s=1024x768",
+  "price": 1140
+},
+{
+  "_id": 38685423,
+  "name": "Hawal Boutique Villa Hoi An",
+  "address": "Cam Chau, Hoi An, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/38685423/-1/97b7ce04a1db4260995bcefe3bdc2d06.jpg?ce=0&s=1024x768",
+  "price": 750
+},
+{
+  "_id": 6256655,
+  "name": "SOUTHERN HOTEL HOI AN ",
+  "address": "Cẩm Phô, Hoi An, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/6256655/-1/980f3a0b35e7590e4d760ec26b4a5796.jpg?ca=28&ce=0&s=1024x768",
+  "price": 620
+},
+{
+  "_id": 1032424,
+  "name": "The Moon River Homestay & Villa",
+  "address": "Cam Ha, Hoi An, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/1032424/-1/8ccf31a6297e07802228dd4226b47be2.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1080
+},
+{
+  "_id": 2269235,
+  "name": "Ally Beach Boutique Hotel Hoian",
+  "address": "Cửa Đại, Hoi An, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/2269235/-1/ae1dadd26a24cdbc711b4f93f7a160cf.jpg?ca=6&ce=1&s=1024x768",
+  "price": 850
+},
+{
+  "_id": 39633118,
+  "name": "Chillax Old Town Villa",
+  "address": "Minh An, Hoi An, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/39633118/0/7b5b3aea2330f4c5354c758bd455d60e.jpg?ce=0&s=1024x768",
+  "price": 1350
+},
+{
+  "_id": 6180162,
+  "name": "Son Trang Hotel Hoi An",
+  "address": "Cẩm Phô, Hoi An, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/6180162/-1/0cb6da04176a31690ab7a37fbb759b19.jpg?ca=19&ce=1&s=1024x768",
+  "price": 500
+},
+{
+  "_id": 900039,
+  "name": "Do River Homestay",
+  "address": "Cam Chau, Hoi An, Vietnam",
+  "rating": 1.5,
+  "image": "//pix6.agoda.net/hotelImages/900/900039/900039_17020813160050854657.jpg?ca=6&ce=1&s=1024x768",
+  "price": 800
+},
+{
+  "_id": 49323650,
+  "name": "Seagull Nest Hoi An Beach Village",
+  "address": "Cam An, Hoi An, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/49323650/0/b5f428491d31c771f01fa10fcab210d3.jpg?ce=0&s=1024x768",
+  "price": 710
+},
+{
+  "_id": 38114528,
+  "name": "CuaDai Beach overview beach and nicely",
+  "address": "Cửa Đại, Hoi An, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/38114528/0/1ec78f7959b78ec9ba32fd60f1d28250.jpg?ce=0&s=1024x768",
+  "price": 1960
+},
+{
+  "_id": 45927198,
+  "name": "Riverside Boutique Hotel ",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/45927198/-1/eaa32a2b98196adba4e5ea6553024fc1.jpg?ce=0&s=1024x768",
+  "price": 1360
+},
+{
+  "_id": 686316,
+  "name": "West Hotel",
+  "address": "Ninh Kieu Quay, Cần Thơ, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/686/686316/686316_15010621080024326803.jpg?ca=3&ce=1&s=1024x768",
+  "price": 610
+},
+{
+  "_id": 41658935,
+  "name": "Peony Hotel",
+  "address": "Ninh Kieu Quay, Cần Thơ, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/41658935/-1/034cd3b788058c3a778347e8d7ce1e81.jpg?ce=0&s=1024x768",
+  "price": 1800
+},
+{
+  "_id": 43384,
+  "name": "TTC Hotel Can Tho",
+  "address": "Ninh Kieu Quay, Cần Thơ, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/43384/-1/cbe7911131f45394d55c3aa38195c022.jpg?ce=0&s=1024x768",
+  "price": 1220
+},
+{
+  "_id": 24330499,
+  "name": "Lee Hotel",
+  "address": "Cai Rang, Cần Thơ, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/332745195.jpg?k=72ca8a04f7bbfa66b5f416ae5926f04680995e67d59197d4ada2f52607af0f2d&o=",
+  "price": 1220
+},
+{
+  "_id": 2968865,
+  "name": "Winter Spring Homestay",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/296/2968865/2968865_17101113170057650436.jpg?ca=6&ce=1&s=1024x768",
+  "price": 1420
+},
+{
+  "_id": 49913817,
+  "name": "AVA Hotel Cần Thơ",
+  "address": "Ninh Kieu, Cần Thơ, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/49913817/0/f503d2fcbf84ddc40e24e9b04bd13a1b.jpg?ce=0&s=1024x768",
+  "price": 720
+},
+{
+  "_id": 13349118,
+  "name": "Mekong Rose Hotel",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/133/13349118/13349118_20021620010088202294.jpg?ca=10&ce=1&s=1024x768",
+  "price": 890
+},
+{
+  "_id": 568125,
+  "name": "Iris Hotel Can Tho",
+  "address": "City Center, Cần Thơ, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/568/568125/568125_14041015460019033004.jpg?ca=2&ce=1&s=1024x768",
+  "price": 1690
+},
+{
+  "_id": 690135,
+  "name": "LION 8 Hotel",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/690135/-1/88d80e716d525aa226202c5abcd63f6e.jpg?ce=0&s=1024x768",
+  "price": 1750
+},
+{
+  "_id": 30190258,
+  "name": "Stay House",
+  "address": "City Center, Cần Thơ, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/30190258/-1/ac35a661b999cc7af57160e349e904d2.jpg?ca=26&ce=0&s=1024x768",
+  "price": 910
+},
+{
+  "_id": 8091632,
+  "name": "Con Khuong Resort Can Tho",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/8091632/-1/324b2daa1183511766d8469578f49c33.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1630
+},
+{
+  "_id": 47192567,
+  "name": "Nhà Yên’s 1 Bedroom Hotel Homestay Hostel Cần Thơ",
+  "address": "An Binh, Cần Thơ, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/47192567/0/06f4367b311a18cb20db40e9f4969b67.jpg?ce=0&s=1024x768",
+  "price": 780
+},
+{
+  "_id": 21635966,
+  "name": "Apple Hotel",
+  "address": "An Binh, Cần Thơ, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/21635966/-1/f697e88cc6a7f6599e7199635e738b1d.jpg?ca=16&ce=1&s=1024x768",
+  "price": 1980
+},
+{
+  "_id": 33553458,
+  "name": "Phuong Thuy Hotel ",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/33553458/-1/a89641e6529436d29360967851ce60f5.jpg?ce=0&s=1024x768",
+  "price": 550
+},
+{
+  "_id": 782987,
+  "name": "Nesta Hotel Can Tho ",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/782987/-1/279b66d0dd77462eb797d1148ddc35a7.jpg?ce=0&s=1024x768",
+  "price": 1360
+},
+{
+  "_id": 31589344,
+  "name": "MES HOTEL - Ngay Ben Ninh Kieu",
+  "address": "Ninh Kieu Quay, Cần Thơ, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/353523603.jpg?k=4128b53d2316fb1d3a27544a5437d84644b743348b42e8cf338c5c516bb9833f&o=",
+  "price": 1260
+},
+{
+  "_id": 37864227,
+  "name": "Homestay 63",
+  "address": "City Center, Cần Thơ, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/37864227/0/26a0ed97522c70a255a14bb55e196f07.jpg?ce=0&s=1024x768",
+  "price": 1810
+},
+{
+  "_id": 25678578,
+  "name": "FIT Hotel Can Tho",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 2.5,
+  "image": "//pix6.agoda.net/hotelImages/25678578/-1/81e3ff59af7362ffd0223bf11de1e372.jpg?ce=0&s=1024x768",
+  "price": 1660
+},
+{
+  "_id": 907601,
+  "name": "Muong Thanh Luxury Can Tho Hotel",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/907/907601/907601_16090815330046249339.jpg?ca=6&ce=1&s=1024x768",
+  "price": 810
+},
+{
+  "_id": 241110,
+  "name": "Kim Lan Hotel",
+  "address": "City Center, Cần Thơ, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/241110/-1/ddcfc0909235c5a2f08d00272a1a238c.jpg?ce=0&s=1024x768",
+  "price": 820
+},
+{
+  "_id": 39924200,
+  "name": "De Aquar Home Can Tho",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/39924200/-1/111af7660fb170b943f07c6397e6a9a9.jpg?ce=0&s=1024x768",
+  "price": 1550
+},
+{
+  "_id": 39580174,
+  "name": "SOJO HOTEL CAN THO",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/39580174/-1/bfa5626953e41367afa46ab45b629cbc.jpg?ce=0&s=1024x768",
+  "price": 1540
+},
+{
+  "_id": 37286343,
+  "name": "LION 6 HOTEL",
+  "address": "Ninh Kieu, Cần Thơ, Vietnam",
+  "rating": 3,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/423024790.jpg?k=eefe2ba86243f7d59675f30f49158eea81a8b729bada3be59bdedcc488e7ff7b&o=",
+  "price": 1690
+},
+{
+  "_id": 37806212,
+  "name": "Dubai Luxury Hotel & Massage",
+  "address": "Cái Khế, Cần Thơ, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/37806212/0/1a6ad0427b909519d4101cb87901a48b.jpg?ce=0&s=1024x768",
+  "price": 1610
+},
+{
+  "_id": 36787239,
+  "name": "Rich Hotel",
+  "address": "City Center, Cần Thơ, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/36787239/0/9614fd8f94a50971a678acdfa83aa1cd.jpg?ce=0&s=1024x768",
+  "price": 1240
+},
+{
+  "_id": 230577,
+  "name": "Ninh Kieu 2 Hotel",
+  "address": "Ninh Kieu Quay, Cần Thơ, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/230/230577/230577_14051614230019451473.jpg?ca=2&ce=1&s=1024x768",
+  "price": 1410
+},
+{
+  "_id": 8514775,
+  "name": "MAGNOLIA'S Can Tho",
+  "address": "Ninh Kieu Quay, Cần Thơ, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/8514775/-1/8ba8de1f9fe387860aab9b31b9f026bd.jpg?ce=0&s=1024x768",
+  "price": 1880
+},
+{
+  "_id": 569792,
+  "name": "The Light Hotel Halong",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 2,
+  "image": "//pix6.agoda.net/hotelImages/569792/-1/4a7cfc3f61d0f6dceffbe12b2beb9487.jpg?ce=0&s=1024x768",
+  "price": 560
+},
+{
+  "_id": 48609599,
+  "name": "The Secret HaLong",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/48609599/0/c5e3e0f9b2d4577445f3853a49951ddb.jpg?ce=0&s=1024x768",
+  "price": 1460
+},
+{
+  "_id": 46592011,
+  "name": "Private room in Halong center",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/46592011/-1/9238fb55a714841511ea4b5f361055b3.jpg?ce=0&s=1024x768",
+  "price": 1880
+},
+{
+  "_id": 6593570,
+  "name": "Halong Boutique Hotel",
+  "address": "Hon Gai Port, Hạ Long, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/6593570/-1/2d08941fea2885c7aa3cd14ad7f6da7c.jpg?ca=29&ce=0&s=1024x768",
+  "price": 870
+},
+{
+  "_id": 37806009,
+  "name": "A La Carte Ha Long Bay Residence",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/37806009/-1/86c24604a1af3cdd9cb7ea1e55e591b9.jpg?ce=0&s=1024x768",
+  "price": 1580
+},
+{
+  "_id": 30958249,
+  "name": "Halong Lavender Hotel",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/30958249/-1/087744355640521d6f9a18f84d4eeb04.jpg?ce=0&s=1024x768",
+  "price": 1850
+},
+{
+  "_id": 6492371,
+  "name": "FLC Halong Bay Golf Club & Luxury Resort",
+  "address": "Hon Gai Port, Hạ Long, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/6492371/-1/91498acc8a5f61391bbfbcdf77626331.jpg?ca=8&ce=1&s=1024x768",
+  "price": 910
+},
+{
+  "_id": 10185656,
+  "name": "Halios Halong Hotel",
+  "address": "Hon Gai Port, Hạ Long, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/10185656/-1/efdfccb8a4ef18e8e778528ed29b47b0.jpg?ca=11&ce=1&s=1024x768",
+  "price": 1640
+},
+{
+  "_id": 12180356,
+  "name": "La Regina Grand Cruise",
+  "address": "Tuan Chau Island, Hạ Long, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/12180356/-1/a76ef5e553acaa3dc4bc3de68211fc6a.jpg?ce=0&s=1024x768",
+  "price": 1250
+},
+{
+  "_id": 46749314,
+  "name": "Diamond Luxury Hotel",
+  "address": "Hon Gai Port, Hạ Long, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/46749314/745842061/1c8db67de8ca8fc89e46424ce2aa3137.jpg?ce=0&s=1024x768",
+  "price": 1610
+},
+{
+  "_id": 20126506,
+  "name": "VietHouse Homestay Ha Long",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/20126506/-1/b263f0b1235575e0886cec036b6d4705.jpg?ca=16&ce=1&s=1024x768",
+  "price": 1140
+},
+{
+  "_id": 46591998,
+  "name": "De Charm Ha Long Hotel",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/46591998/-1/30ac3d350417c9651a10137a71a0df1d.jpg?ce=0&s=1024x768",
+  "price": 1210
+},
+{
+  "_id": 23943927,
+  "name": "May house Green Bay Garden Ha Long - near Marina beach",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 5,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/295478698.jpg?k=43b203d6ef082b9a3d819066a15b86accb3dbf4c0c115ee146ccc815f084b528&o=",
+  "price": 1980
+},
+{
+  "_id": 15852820,
+  "name": "GREEN BAY HOTEL",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/158/15852820/15852820_20062016310090986573.jpg?ca=12&ce=1&s=1024x768",
+  "price": 920
+},
+{
+  "_id": 49485765,
+  "name": "Blue Kites Residence by A La Carte Ha Long Bay",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 5,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/517715372.jpg?k=6ebc18ac36805e19666a518fd6afd7d9312ae6a5c9d98660f82b6bcf2b7df784&o=",
+  "price": 770
+},
+{
+  "_id": 31258005,
+  "name": "Maruko Ha Long Hotel",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/31258005/-1/f03597fc68e97259fc9ba4d4db3714c5.jpg?ca=29&ce=0&s=1024x768",
+  "price": 620
+},
+{
+  "_id": 108286,
+  "name": "Novotel Ha Long Bay Hotel",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/21663734/0/6be68191488f90657c8a1fa6e320ca76.jpg?ca=16&ce=1&s=1024x768",
+  "price": 1060
+},
+{
+  "_id": 5836181,
+  "name": "The Bay - Ha Long Homestay",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/5836181/-1/3b77864fe6d6352e67a42684aa792d5b.jpg?ca=7&ce=1&s=1024x768",
+  "price": 770
+},
+{
+  "_id": 11081745,
+  "name": "Muong Thanh Grand Bai Chay",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/11081745/-1/d134a421d129e347d62ef71ed8b4369c.jpg?ca=12&ce=1&s=1024x768",
+  "price": 1230
+},
+{
+  "_id": 31265832,
+  "name": "GRAND FLEUVE BOUTIQUE",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/31265832/-1/262ff479a811ff5ee89dc3b99a3cfe45.jpg?ce=0&s=1024x768",
+  "price": 960
+},
+{
+  "_id": 246332,
+  "name": "Halong Annam Junk",
+  "address": "Tuan Chau Island, Hạ Long, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/246/246332/246332_15061115520029295124.jpg?ca=4&ce=1&s=1024x768",
+  "price": 1970
+},
+{
+  "_id": 28335585,
+  "name": "Halo Bay Homestay",
+  "address": "Hon Gai Port, Hạ Long, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/28335585/-1/c14d6aa7a54bf3105f625a83a1148093.jpg?ca=23&ce=0&s=1024x768",
+  "price": 1530
+},
+{
+  "_id": 40359221,
+  "name": "Golden Sea Hotel",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/40359221/-1/4bac390a2727c07bad67748d5178e579.jpg?ce=0&s=1024x768",
+  "price": 860
+},
+{
+  "_id": 852843,
+  "name": "Nam Dat Hotel Halong",
+  "address": "Hon Gai Port, Hạ Long, Vietnam",
+  "rating": 2.5,
+  "image": "//pix6.agoda.net/hotelImages/852843/-1/c37c33a5e7111f024718e027b816b5ce.jpg?ce=0&s=1024x768",
+  "price": 1750
+},
+{
+  "_id": 40017722,
+  "name": "Jade Ha Long Hotel",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/40017722/-1/8ab3c85b0b654e4e65d7eb382f320b43.jpg?ce=0&s=1024x768",
+  "price": 1550
+},
+{
+  "_id": 1015998,
+  "name": "Vinpearl Resort & Spa Ha Long",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/1015998/-1/5393e9bfae5b5927c4f3f3d2dd5088d7.jpg?ce=0&s=1024x768",
+  "price": 1810
+},
+{
+  "_id": 37959439,
+  "name": "By's House Căn hộ view biển thành phố Hạ Long ",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/37959439/0/8df45519fd20ede3f53599ec07240f2f.jpg?ce=0&s=1024x768",
+  "price": 800
+},
+{
+  "_id": 43427,
+  "name": "Saigon Halong Hotel",
+  "address": "Ha Long, Hạ Long, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/434/43427/43427_16051708510042386025.jpg?ca=6&ce=1&s=1024x768",
+  "price": 1360
+},
+{
+  "_id": 4138846,
+  "name": "Sapa Center View Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 2.5,
+  "image": "//pix6.agoda.net/hotelImages/4138846/-1/3d177279345a29fa8140043dcea3c8b3.jpg?ca=25&ce=0&s=1024x768",
+  "price": 1610
+},
+{
+  "_id": 18507143,
+  "name": "Valley View Homestay",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/200069555.jpg?k=81980991114eb138f33491d1f30be5f4f60a2b508c27f7574298f69954a7c7b8&o=",
+  "price": 630
+},
+{
+  "_id": 2607925,
+  "name": "Pao's Sapa Leisure Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/2607925/-1/80705aef282f3e6b66b89f369833395c.jpg?ca=23&ce=0&s=1024x768",
+  "price": 860
+},
+{
+  "_id": 8099799,
+  "name": "KK Sapa Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/8099799/-1/cd26223a233cf8e3ddb79ed6258d8bc7.jpg?ca=12&ce=1&s=1024x768",
+  "price": 1500
+},
+{
+  "_id": 4907920,
+  "name": "Saparis Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/4907920/-1/c9a81e1cb8ddf4363fce46e00aab2113.jpg?ca=9&ce=1&s=1024x768",
+  "price": 880
+},
+{
+  "_id": 46568209,
+  "name": "D Home Sapa 6",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/46568209/-1/97b0ee72bb8d6c99e2bff00b51175f5d.jpg?ce=0&s=1024x768",
+  "price": 660
+},
+{
+  "_id": 5831353,
+  "name": "Pistachio Hotel Sapa",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/5831353/-1/14de8cb27ea7f96aef70ee519127ca31.jpg?ca=14&ce=1&s=1024x768",
+  "price": 1830
+},
+{
+  "_id": 23706586,
+  "name": "The 1996 House",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/23706586/0/262d3a1b33ff771e1fb1a917ac301021.jpg?ca=19&ce=1&s=1024x768",
+  "price": 1340
+},
+{
+  "_id": 14695709,
+  "name": "Sapa Capsule Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/property/48514789/0/86b002e8b346cfeddcadd82bbfbe1b97.jpeg?ce=0&s=1024x768",
+  "price": 740
+},
+{
+  "_id": 410811,
+  "name": "Sapa Unique Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/410811/-1/7db7048978a56d03c48d91b39e82d8d9.jpg?ca=17&ce=1&s=1024x768",
+  "price": 1720
+},
+{
+  "_id": 46187067,
+  "name": "D Home Sapa 3",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/46187067/0/3b505ffa56b4227aabc43eb6eac923eb.jpg?ce=0&s=1024x768",
+  "price": 2000
+},
+{
+  "_id": 1506288,
+  "name": "Sapa Jade Hill Resort & Spa",
+  "address": "Lao Chải Tả Ván, Sapa, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/1506288/-1/ab78a64af95daf45e4b2dd85393cf205.jpg?ca=18&ce=1&s=1024x768",
+  "price": 1200
+},
+{
+  "_id": 29851736,
+  "name": "Ville De Mont Mountain Resort",
+  "address": "Lao Chải Tả Ván, Sapa, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/29851736/-1/589d26ec0227f53c0eb44e9dbef7d668.jpg?ca=28&ce=0&s=1024x768",
+  "price": 1340
+},
+{
+  "_id": 26852142,
+  "name": "Viettrekking Sapa",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/26852142/-1/d71b696a382ee3df85271fbc93c3d1aa.jpg?ce=0&s=1024x768",
+  "price": 1880
+},
+{
+  "_id": 30987619,
+  "name": "Sakura Homestay",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/345187479.jpg?k=772117958dafcf8b2d840a75207c59d62a01684b23a5403931d9b7d300dd775f&o=",
+  "price": 1400
+},
+{
+  "_id": 45896230,
+  "name": "Quoc Tuan Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/45896230/-1/90853248f5a4e9c45e3b025432fc30ed.jpg?ce=0&s=1024x768",
+  "price": 1110
+},
+{
+  "_id": 1632389,
+  "name": "Cat Cat Sunrise Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 1,
+  "image": "//pix6.agoda.net/hotelImages/1632389/-1/4a84c1310ddc3c2aeae94dc0d1fb06ba.jpg?ce=0&s=1024x768",
+  "price": 610
+},
+{
+  "_id": 30726011,
+  "name": "DeLaSol Sapa Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/30726011/-1/4fdea801c16c43e97ee94e4e72340624.jpg?ce=0&s=1024x768",
+  "price": 1760
+},
+{
+  "_id": 14695573,
+  "name": "Camellia Guest House",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/14695573/-1/908d9d68a7f56e7ac3a231069c193f6c.jpg?ca=11&ce=1&s=1024x768",
+  "price": 500
+},
+{
+  "_id": 256568,
+  "name": "Muong Thanh Sapa Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 3.5,
+  "image": "//pix6.agoda.net/hotelImages/256568/-1/e9a06ddeb058d531f2c3166c4cde6ceb.jpg?ca=11&ce=1&s=1024x768",
+  "price": 550
+},
+{
+  "_id": 28445744,
+  "name": "Cloud House Sapa",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 0,
+  "image": "//pix6.agoda.net/hotelImages/28445744/-1/4a9b499cf25197d9f5de904a253ca8d3.jpg?ca=23&ce=0&s=1024x768",
+  "price": 1240
+},
+{
+  "_id": 18516076,
+  "name": "Sapa CatCat Hills Resort",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/185/18516076/18516076_20101214290092709642.jpg?ca=14&ce=1&s=1024x768",
+  "price": 1510
+},
+{
+  "_id": 36210357,
+  "name": "Sue Pa Family Trekking Homestay",
+  "address": "Lao Chải Tả Ván, Sapa, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/530206152.jpg?k=28f23b28bc8f022127ac040c19fc96e2f521db9548c5eb925e4c5ebdd3a7d28e&o=",
+  "price": 720
+},
+{
+  "_id": 11055251,
+  "name": "Muong Hoa View Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 3,
+  "image": "//pix6.agoda.net/hotelImages/11055251/-1/c419f58075cf3dbead3f6bda8a47439f.jpg?ca=9&ce=1&s=1024x768",
+  "price": 1920
+},
+{
+  "_id": 5817824,
+  "name": "Discovery Hotel",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 1,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/160512431.jpg?k=12e680b3d07736ad5dc5f0cde3f7ec3000c1208e1797dd115ed8c03c07461050&o=",
+  "price": 840
+},
+{
+  "_id": 833757,
+  "name": "Amazing Hotel Sapa",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 4,
+  "image": "//pix6.agoda.net/hotelImages/833757/-1/f2f7a12485c57d5c5440ef38a93f9154.jpg?ca=7&ce=1&s=1024x768",
+  "price": 1780
+},
+{
+  "_id": 39797512,
+  "name": "Lady Hill Sapa Resort",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 5,
+  "image": "//pix6.agoda.net/hotelImages/39797512/-1/3e1ca7a70d520759fc3ed8025595cd03.jpg?ce=0&s=1024x768",
+  "price": 960
+},
+{
+  "_id": 10653752,
+  "name": "The Link farmstay",
+  "address": "Sa Pa City Center, Sapa, Vietnam",
+  "rating": 0,
+  "image": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/486075765.jpg?k=4016021ac084370d44230dfbf75b0e10acb2c47d2b6513e152d6bca455bce6f7&o=",
+  "price": 1020
+}]

@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "65e71e085e1d0f17e24b3f79"
+  },
+  "authorId": {
+    "$oid": "65e7023ce0f249e80a30dfad"
+  },
+  "blogId": {
+    "$oid": "65e718655e1d0f17e24b3ed2"
+  },
+  "replyId": null,
+  "content": "Rất hay và ý nghĩa!",
+  "reactions": [],
+  "createdAt": {
+    "$date": "2024-03-05T13:28:40.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e722525e1d0f17e24b402c"
+  },
+  "authorId": {
+    "$oid": "65e702a3e0f249e80a30dfb1"
+  },
+  "blogId": {
+    "$oid": "65e7215e5e1d0f17e24b3fec"
+  },
+  "replyId": null,
+  "content": "<p style=\"margin-bottom: 16px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 1.625em; font-family: arial; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.87);\">Nhắc đến tiểu thuyết ngôn tình, mọi người thường cho rằng đó là những cuốn sách vô bổ toàn về chuyện tình yêu với những tình tiết tưởng tượng xa rời thực tế, không giúp ích gì cho người đọc, nhưng tôi đã thay đổi suy nghĩ của mình khi đọc cuốn tiểu thuyết này của Đồng Hoa. Tác giả Đồng Hoa đã vượt lên trên giới hạn của một tác giả ngôn tình, khi cuốn tiểu thuyết của cô dù có đề cập đến câu chuyện tình yêu của lứa tuổi học trò nhưng nó lại chứa đựng nhiều bài học nhân sinh sâu sắc dành cho mỗi độc giả khi đọc cuốn truyện này.</p><p style=\"margin-bottom: 16px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 1.625em; font-family: arial; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.87);\">Qua hình ảnh nhân vật La Kỳ Kỳ mà tác giả xây dựng tôi tin chắc rằng không chỉ tôi mà tất cả mọi người đều tìm thấy một phần bản thân mình trong đó. Xuyên suốt câu chuyện là hình ảnh cô gái nhỏ La Kỳ Kỳ trong những năm tháng của cuộc đời học sinh, trải dài từ những năm tháng học tiểu học, với bóng ma tâm lý đến từ cô giáo Triệu và rồi tìm được ánh sáng cuối con đường cứu giúp cô bé là cô giáo Cao. Tôi như bắt gặp hình ảnh của mình trong La Kỳ Kỳ thời cấp hai, khi cô đối đầu một cách bướng bỉnh với thầy \"chậu của cải\"... Những mất mát, tổn thương đến với Kỳ Kỳ đã giúp cô trở thành con người mạnh mẽ, kiên định nhưng tâm hồn của cô cũng bởi thế mà trở nên nhạy cảm hơn bao giờ hết. Ngoài kia, cũng có rất nhiều những anh chị, những bạn như tôi: vì đau đớn mà trưởng thành nhanh chóng nhưng luôn muốn được một lần nữa quay trở về với thời thơ ấu.</p><p style=\"margin-bottom: 16px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 1.625em; font-family: arial; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.87);\">Trong suốt quãng thời gian tuổi trẻ, quãng thời gian khi tâm hồn ta còn non nớt, chập chững bước vào đời những bước đi đầu tiên, thì các tác động xung quanh chúng ta ảnh hưởng một cách không ngờ tới. Hiệu ứng bươm bướm giải thích khá đúng trong vấn đề này. Có thể nói, cuộc đời Kỳ Kỳ chịu tác động rất lớn bởi sự kiện cây bút máy khi cô còn học tiểu học. Chỉ đơn giản là một cây bút đắt tiền của người bạn bị mất, tất cả mọi người đều đổ dồn sự nghi ngờ cho cô bé,chỉ đơn giản là vì cô không được lòng cô chủ nghiệm, sự việc đó đã gây ra hệ luỵ rất lớn về sau. Vốn đã có những tổn thương trong tâm hồn, cô bé ngày ngày khép kín bản thân mình, tự tạo cho mình một chiếc vỏ để chui vào, học hành ngày càng sa sút, rồi tìm đến những người bạn mà xã hội gắn cho cái mác là bất hảo.</p><p style=\"margin-bottom: 16px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-stretch: inherit; line-height: 1.625em; font-family: arial; font-optical-sizing: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; overflow-wrap: break-word; color: rgba(0, 0, 0, 0.87);\">Trong câu chuyện này, tôi như tìm thấy bản thân mình trong nhiều phân đoạn,lúc cô giáo Triệu đổ oan cho Kỳ Kỳ lấy trộm chiếc bút máy, những lúc bố mẹ cô có phân biệt đối xử một cách rõ ràng giữa hai chị em, lúc ông ngoại mất. Tôi cảm thấy đồng cảm với nhân vật, nhất là lúc ông ngoại của cô mất, tôi cũng giống như nhân vật, cũng được ông ngoại yêu thương chiều chuộng nhất, người mà lúc đó bản thân mình yêu thương nhất. Nhưng rồi ông lại rời bỏ mình ra đi, tôi cảm thấy như mất hết tất cả, tự hỏi tại sao ông trời lại cướp đi người mà mình yêu thương nhất. Rồi tôi chợt nhận thấy, hoá ra trên đời này có người chung hoàn cảnh với mình, dù chỉ có nhân vật không có thật, một nhân vật hư cấu, nhưng phần nào tôi cũng cảm thấy như được an ủi. Đó cũng là lúc tôi nhận ra được nhiều điều.</p>",
+  "reactions": [],
+  "createdAt": {
+    "$date": "2024-03-05T13:46:58.474Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e7225c5e1d0f17e24b4035"
+  },
+  "authorId": {
+    "$oid": "65e702a3e0f249e80a30dfb1"
+  },
+  "blogId": {
+    "$oid": "65e7215e5e1d0f17e24b3fec"
+  },
+  "replyId": null,
+  "content": "Tin chuẩn chưa anh?",
+  "reactions": [],
+  "createdAt": {
+    "$date": "2024-03-05T13:47:08.534Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e722715e1d0f17e24b4044"
+  },
+  "authorId": {
+    "$oid": "65e7023ce0f249e80a30dfad"
+  },
+  "blogId": {
+    "$oid": "65e7215e5e1d0f17e24b3fec"
+  },
+  "replyId": {
+    "$oid": "65e7225c5e1d0f17e24b4035"
+  },
+  "content": "Chuẩn em nhé!",
+  "reactions": [],
+  "createdAt": {
+    "$date": "2024-03-05T13:47:29.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e7228e5e1d0f17e24b4053"
+  },
+  "authorId": {
+    "$oid": "65e702a3e0f249e80a30dfb1"
+  },
+  "blogId": {
+    "$oid": "65e7215e5e1d0f17e24b3fec"
+  },
+  "replyId": {
+    "$oid": "65e7225c5e1d0f17e24b4035"
+  },
+  "content": "Oke em cảm ơn, mong chờ phần tiếp theo của anh quá!",
+  "reactions": [],
+  "createdAt": {
+    "$date": "2024-03-05T13:47:58.664Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e722b05e1d0f17e24b405d"
+  },
+  "authorId": {
+    "$oid": "65e7023ce0f249e80a30dfad"
+  },
+  "blogId": {
+    "$oid": "65e7215e5e1d0f17e24b3fec"
+  },
+  "replyId": {
+    "$oid": "65e7225c5e1d0f17e24b4035"
+  },
+  "content": "Cảm ơn em đã ủng hộ nhé, Mãi iu &lt;3333",
+  "reactions": [],
+  "createdAt": {
+    "$date": "2024-03-05T13:48:32.736Z"
+  },
+  "__v": 0
+}]

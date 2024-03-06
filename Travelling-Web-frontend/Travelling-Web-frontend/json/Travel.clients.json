@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "65e7023ce0f249e80a30dfad"
+  },
+  "image": "https://i.pinimg.com/564x/57/76/de/5776de1add5604587720762812ecb67e.jpg",
+  "userName": "Doan Viet Tu",
+  "email": "tu@gmail.com",
+  "password": "123",
+  "token": "65e7023ce0f249e80a30dfad.1710250604",
+  "createdAt": {
+    "$date": "2024-03-05T11:30:04.139Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e70298e0f249e80a30dfaf"
+  },
+  "image": "https://scontent.fhan2-4.fna.fbcdn.net/v/t39.30808-1/250299696_104907538664222_8037658569808171554_n.jpg?stp=dst-jpg_p320x320&_nc_cat=104&ccb=1-7&_nc_sid=5740b7&_nc_ohc=GLrjcXvqkt8AX_HDmhg&_nc_ht=scontent.fhan2-4.fna&oh=00_AfBS3h0-ABlgSYl-ScMFhgJAVqC-MYgDW0UPMsZXLaeA9A&oe=65ECBFFE",
+  "userName": "Nguyen Xuan Trung",
+  "email": "trung@gmail.com",
+  "password": "123",
+  "token": "",
+  "createdAt": {
+    "$date": "2024-03-05T11:31:36.362Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e702a3e0f249e80a30dfb1"
+  },
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqs8KJMo6kdez1J6yKhGemIfPq5dS7G3TuBg&usqp=CAU",
+  "userName": "Hoang Tien Hung",
+  "email": "hung@gmail.com",
+  "password": "123",
+  "token": "65e702a3e0f249e80a30dfb1.1710251048",
+  "createdAt": {
+    "$date": "2024-03-05T11:31:47.490Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65e6eaa0150926318a724220"
+  },
+  "image": "https://1.bp.blogspot.com/-RoOiYu8pweY/YGLZiX0bQ_I/AAAAAAAArE4/4AUbslYlESME_-arrxmvha763Te_jh1kwCNcBGAsYHQ/s0/ff99e81f59e3a9c02ff4f799f35cfc90.jpeg",
+  "userName": "Noisy Boy",
+  "email": "noisyboy",
+  "password": "123",
+  "token": "65e6eaa0150926318a724220.1710245020",
+  "createdAt": {
+    "$date": "2024-03-05T09:49:20.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e70a51bfe3d90e37cb5ace"
+  },
+  "image": "../image/author.jpg",
+  "userName": "Cà Chua",
+  "email": "admin",
+  "password": "123",
+  "token": "65e70a51bfe3d90e37cb5ace.1710248172",
+  "createdAt": {
+    "$date": "2024-03-05T12:04:33.598Z"
+  },
+  "__v": 0
+}]
