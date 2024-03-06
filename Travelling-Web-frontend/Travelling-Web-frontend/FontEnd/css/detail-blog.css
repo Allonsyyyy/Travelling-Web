@@ -1,0 +1,225 @@
+.detailContainer{
+    width: 70%;
+    height: max-content;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+.detailContent{
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+    border-radius: 1rem;
+    overflow: hidden;
+    padding: 3rem 2rem;
+    box-sizing: border-box;
+}
+
+.detailContent .author-infor{
+    display: flex;
+    width: 100%;
+    gap: 1rem;
+}
+
+.detailContent .author-avatar{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+    overflow: hidden;
+    img{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.detailContent .author-name{
+    font-size: clamp(1rem, 5vw, 1.5rem);    
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}   
+.detailContent .create-time{
+    font-size: clamp(0.8rem, 5vw, 1.4rem);    
+    color: rgb(150, 150, 150);
+    margin: 0;
+}
+.author-role{
+    font-size: clamp(0.8rem, 5vw, 1.4rem);    
+    color: rgb(150, 150, 150);
+    margin: 0;
+}
+
+
+.author-infor .reaction{
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+    gap: 0.5rem;
+}
+
+.btn-reaction{
+    color: rgb(240, 0, 0);
+    /* font-size: 1.5rem; */
+    display: flex;
+    align-items: start;
+}
+
+.detailContent .blog-title{
+    margin: 3rem 0 1.5rem 0;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.comment-title{
+    font-size: 3rem;
+    margin: 4rem 0 2rem 0;
+}
+
+.form-comment{
+    width: 100%;
+    height: fit-content;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3);
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.form-comment .comment-line{
+    width: 100%;
+    height: fit-content;
+    overflow-y: initial;
+    font-size: 1.6rem;
+    border: none;
+    outline: none;
+    resize: none;
+    margin: 0;
+
+    transition: box-shadow 0.1s ease-in-out;
+}
+
+.comment-line[contenteditable]:empty:before{
+    content: attr(placeholder);
+    color: rgb(170, 170, 170);
+}
+
+.form-comment:focus-within{
+    box-shadow: 0 0 0.5rem rgba(0, 189, 158, 0.5);
+}
+
+.form-comment .btn-comment{
+    padding: 0.5rem 1.5rem 0.1rem 1.5rem;
+    background-color: rgb(2, 157, 157);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    border-radius: 2rem;
+    margin: 0.5rem 0 0 auto;
+}
+
+.comment-list{
+    margin: 5rem 0 0 0;
+}
+
+.comment-card{
+    width: 100%;
+    height: max-content;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 2rem 0;
+}
+
+.comment-card .author-infor{
+    display: flex;
+    gap: 0.5rem;
+}
+
+.comment-card .author-avatar{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    overflow: hidden;
+    img{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+.comment-card .author-name{
+    font-size: clamp(0.9rem, 5vw, 1.4rem);    
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    margin: 0;
+}   
+.comment-card .create-time{
+    font-size: clamp(0.7rem, 5vw, 1.2rem);    
+    color: rgb(150, 150, 150);
+    margin: 0;
+}
+
+.comment-content{
+    margin: 1rem 0 0 0;
+}
+.form-reply{
+    margin: 1rem 0 0 0;
+}
+.btn-reply{
+    padding: 0;
+    margin-left: clamp(0.1rem, 5vw, 1rem);
+    border: 0;
+    display: flex;
+    justify-content: start;
+    transition: color 0.2s ease-in-out;
+}
+
+.btn-reply:hover{
+    color: rgb(0, 187, 208);
+}
+
+.btn-delete-comment{
+    padding: 0;
+    margin-left: clamp(0.1rem, 5vw, 1rem);
+    border: 0;
+    display: flex;
+    justify-content: start;
+    transition: color 0.2s ease-in-out;
+    font-size: clamp(1rem, 5vw, 1.8rem);
+}
+
+.btn-delete-comment:hover{
+    color: rgb(232, 0, 0);
+}
+
+.reply-list{
+    margin: 0 0 0 5rem;
+}
+
+.reply-card{
+    width: 100%;
+    height: max-content;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.3);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem 0 0 0;
+}
+
+.form-comment .btn-group{
+    width: fit-content;
+    display: flex;
+    gap: 0.5rem;
+    margin: 0 0 0 auto;
+}
+
+.btn-delete-reply{
+    padding: 0.5rem 1.5rem 0.1rem 1.5rem;
+    background-color: rgb(209, 0, 0);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    border-radius: 2rem;
+    display: inline;
+
+}
+.btn-send-reply{
+    padding: 0.5rem 1.5rem 0.1rem 1.5rem;
+    background-color: rgb(2, 157, 157);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    border-radius: 2rem;
+    display: inline;
+}
+

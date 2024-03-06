@@ -1,0 +1,133 @@
+.footer {
+    background-color: var(--oxford-blue);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: var(--light-gray);
+    padding-block: 60px;
+}
+
+.footer a:not(.logo) {
+    color: inherit;
+}
+
+.footer-top {
+    display: grid;
+    gap: 30px;
+    margin-bottom: 40px;
+}
+
+.footer-list-title {
+    color: var(--white-1);
+    font-size: var(--fs-4);
+    font-weight: var(--fw-600);
+    margin-bottom: 15px;
+}
+
+.footer-link {
+    font-size: var(--fs-7);
+    padding-block: 5px;
+}
+
+.footer .footer-link:is(:hover, :focus) {
+    color: var(--white-1);
+}
+
+.newsletter-text {
+    font-size: var(--fs-7);
+    margin-bottom: 30px;
+    line-height: 1.7;
+}
+
+.newsletter-form {
+    position: relative;
+}
+
+.newsletter-input {
+    background: var(--white-1);
+    border-radius: var(--radius-6);
+    padding: 24px;
+    color: var(--eerie-black);
+}
+
+.newsletter-input:focus {
+    outline: none;
+    box-shadow: 0 0 0 5px hsla(216, 98%, 52%, 0.25);
+}
+
+.newsletter-form .btn-primary {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.newsletter-form .btn-primary:is(:hover, :focus) {
+    --background: var(--viridian-green);
+    --color: var(--white-1);
+}
+
+.footer-bottom .logo {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.copyright {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: var(--fs-7);
+}
+
+.copyright-link {
+    display: inline-block;
+    text-decoration: underline;
+}
+
+.copyright-link:is(:hover, :focus) {
+    text-decoration: none;
+}
+
+.social-list {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.social-link {
+    font-size: 17px;
+    background: var(--independence);
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.social-link:is(:hover, :focus) {
+    background: var(--viridian-green);
+}
+
+@media (min-width: 575px) {
+   .footer-top {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (min-width: 768px) {
+    .footer {
+        --fs-7: 1.6rem;
+    }
+    .footer-bottom {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .footer-bottom .logo,
+    .copyright {
+        margin-bottom: 0;
+    }
+}
+
+@media (min-width: 992px) {
+    .footer-top {
+         grid-template-columns: 1fr 1fr 1fr 2fr;
+     }
+ }

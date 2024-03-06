@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="../css/root.css">
+    <link rel="stylesheet" href="../css/header.css">
+    <link rel="stylesheet" href="../css/footer.css">
+    <link rel="stylesheet" href="../css/reused-style.css">
+    <link rel="stylesheet" href="../css/detail-blog.css">
+
+    <title>Tourest</title>
+</head>
+
+<body>
+
+    <!-- 
+    - #HEADER
+  -->
+
+    <header class="header" data-header>
+        <div class="container">
+
+            <a href="#">
+                <h1 class="logo">Tourest</h1>
+            </a>
+
+            <button class="nav-toggle-btn" data-nav-toggle-btn aria-label="Toggle Menu">
+            <ion-icon name="menu-outline" class="open"></ion-icon>
+            <ion-icon name="close-outline" class="close"></ion-icon>
+        </button>
+
+            <nav class="navbar">
+
+                <ul class="navbar-list">
+
+                    <li>
+                        <a href="./index.html" class="navbar-link">Trang chủ</a>
+                    </li>
+
+                    <!-- <li>
+                    <a href="./aboutUs.html" class="navbar-link">Giới thiệu</a>
+                </li>
+
+                <li>
+                    <a href="./tours.html" class="navbar-link">Tours</a>
+                </li> -->
+
+                    <li>
+                        <a href="./destination.html" class="navbar-link">Điểm đến</a>
+                    </li>
+
+                    <li>
+                        <a href="./blog.html" class="navbar-link">Blog</a>
+                    </li>
+
+                    <!-- <li>
+                    <a href="./contactUs.html" class="navbar-link">Liên hệ</a>
+                </li> -->
+
+                </ul>
+                <div class="user-infor"></div>
+                <button class="btn btn-secondary btnheader logout-button" onclick="LogOut()"> Đăng xuất </button>
+
+                <a href="./login.html" class="btn btn-secondary btnheader login-button">Đăng nhập</a>
+                <a href="./signup.html" class="btn btn-secondary abc btnheader signup-button">Đăng ký</a>
+            </nav>
+
+        </div>
+    </header>
+
+
+    <!--
+        detail
+    -->
+
+    <main>
+        <section class="section detail">
+
+            <div class="detailContainer">
+
+                <div class="detailContent"> </div>
+
+                <h2 class="comment-title">Bình luận</h2>
+
+                <div action="" class="form-comment">
+                    <div class="comment-line" id="main-comment-line" contenteditable="true" placeholder="Viết bình luận ..."></div>
+                    <button type="submit" class="btn btn-comment"><svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round" stroke-linejoin="round" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg></button>
+                </div>
+
+
+                <ul class="comment-list">
+                </ul>
+
+            </div>
+        </section>
+    </main>
+
+    <!-- 
+    - #FOOTER
+  -->
+
+    <footer class="footer" style="background-image: url('./assets/images/footer-bg.png')">
+        <div class="container">
+
+            <div class="footer-top">
+
+                <ul class="footer-list">
+
+                    <li>
+                        <p class="footer-list-title">Những điểm đến nổi tiếng</p>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Hà Nội</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Huế</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Đà Lạt</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Quảng Ninh</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Hải Phòng</a>
+                    </li>
+
+                </ul>
+
+                <ul class="footer-list">
+
+                    <li>
+                        <p class="footer-list-title">Thể loại</p>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Du lịch</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Phong cách sống</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Thời trang</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Giáo dục</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Ẩm thực</a>
+                    </li>
+
+                </ul>
+
+                <ul class="footer-list">
+
+                    <li>
+                        <p class="footer-list-title">Quick links</p>
+                    </li>
+
+                    <li>
+                        <a href="./aboutUs.html" class="footer-link">Giới thiệu</a>
+                    </li>
+
+                    <li>
+                        <a href="./contactUs.html" class="footer-link">Liên hệ</a>
+                    </li>
+
+                    <li>
+                        <a href="./tours.html" class="footer-link">Tours</a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Booking</a>
+                    </li>
+
+
+
+                </ul>
+
+                <div class="footer-list">
+
+                    <p class="footer-list-title">Thêm thông tin</p>
+
+                    <p class="newsletter-text">
+                        Để biết thêm thông tin mới nhất về địa điểm du lịch cũng như tours, vui lòng để lại email liên hệ
+                    </p>
+
+                    <form action="" class="newsletter-form">
+                        <input type="email" name="email" required placeholder="Email address" class="newsletter-input">
+
+                        <button type="submit" class="btn btn-primary">Subscribe</button>
+                    </form>
+
+                </div>
+
+            </div>
+
+            <div class="footer-bottom">
+
+                <a href="#" class="logo">Tourest</a>
+
+
+
+                <ul class="social-list">
+
+                    <li>
+                        <a href="#" class="social-link">
+                            <ion-icon name="logo-facebook"></ion-icon>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="social-link">
+                            <ion-icon name="logo-twitter"></ion-icon>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="social-link">
+                            <ion-icon name="logo-instagram"></ion-icon>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="social-link">
+                            <ion-icon name="logo-linkedin"></ion-icon>
+                        </a>
+                    </li>
+
+                    <li>
+                        <a href="#" class="social-link">
+                            <ion-icon name="logo-google"></ion-icon>
+                        </a>
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+    </footer>
+
+    <script src="../js/handleFetch.js"></script>
+    <script src="../js/getParams.js"></script>
+    <script src="../js/formatTime.js"></script>
+    <script src="../js/detail-blog.js"></script>
+    <script src="../js/load-user.js"></script>
+    <script src="../js/logout.js"></script>
+
+</body>
+
+</html>

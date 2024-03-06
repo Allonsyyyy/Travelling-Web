@@ -1,0 +1,85 @@
+/*-----------------------------------*\
+  #BLOG
+\*-----------------------------------*/
+
+.blog {
+    padding-bottom: 100px;
+}
+.blog .section-title {
+    margin-bottom: 2rem;
+}
+
+.blog-card .author-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.blog-card .card-wrapper {
+    color: var(--spanish-gray);
+    font-size: var(--fs-8);
+    justify-content: space-between;
+}
+
+.author-name {
+    color: var(--granite-gray);
+    font-weight: var(--fw-500);
+}
+.blog-card .card-content{
+    height: 50%;
+    box-sizing: border-box;
+}
+.blog-card .bottom-card{
+    display: grid;
+    grid-template-columns: 15% 15% 70%;
+    justify-content: center;  
+}
+.blog-card .bottom-card .reaction,.blog-card .bottom-card .comment{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: var(--spanish-gray);
+}
+
+.btn-link {
+    color: var(--viridian-green);
+    font-weight: var(--fw-700);
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 5px;
+}
+
+.btn-link ion-icon {
+    font-size: 20px;
+}
+
+.btn-link:is(:hover, :focus) {
+    color: var(--oxford-blue);
+}
+
+.writeBlog{
+    position: fixed;
+    bottom: 40px;
+    right: 60px;
+    background: var(--viridian-green);
+    color: var(--white-1);
+    font-size: 2rem;
+    font-weight: 800;
+    width: 4rem;
+    height: 4rem;
+    border-radius: var(--radius-6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease-in-out;
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(-15px);
+}
+
+.hiddenWriteBlog{
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(15px);
+}
