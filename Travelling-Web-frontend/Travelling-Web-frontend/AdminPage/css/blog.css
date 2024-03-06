@@ -1,0 +1,17 @@
+#blog-list{
+    margin: 2rem auto;
+    width: 90%;
+}
+
+.blog-card{
+    display: grid;
+    grid-template-columns: 10% 10% 10% 26% 10% 14% 10% 5% 5%;
+}
+
+.td{
+    height: 10rem;
+}
+
+.createdAt, .edit, .delete{
+    text-align: center;
+}

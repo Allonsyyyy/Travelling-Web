@@ -1,0 +1,25 @@
+#destination-list{
+    margin: 2rem auto;
+    width: 90%;
+}
+.destination-card{
+    display: grid;
+    grid-template-columns: 10% 20% 30% 10% 20% 5% 5%;
+}
+
+.image{
+    word-break: break-all;
+}
+
+.id, .price, .edit, .delete{
+    text-align: center;
+}
+
+.nearHotel{
+    overflow: auto;
+    height: 10rem;
+}
+
+.nearHotel li:not(:last-child){
+    border-bottom: 2px solid rgb(255, 255, 255);
+}

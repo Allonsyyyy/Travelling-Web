@@ -1,0 +1,17 @@
+#hotel-list{
+    margin: 2rem auto;
+    width: 90%;
+}
+
+.hotel-card{
+    display: grid;
+    grid-template-columns: 10% 20% 25% 10% 20% 5% 5% 5%;
+}
+
+.td{
+    height: 10rem;
+}
+
+.id, .price, .rating, .edit, .delete{
+    text-align: center;
+}

@@ -1,0 +1,173 @@
+/*-----------------------------------*\
+  #REUSED STYLE
+\*-----------------------------------*/
+
+.container {
+    padding-inline: 15px;
+    margin-inline: auto;
+}
+
+.user-infor{
+    margin-right: 2rem;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    img{
+        width: 3rem;    
+        height: 3rem;
+        margin-right: 0.5rem;
+        border-radius: 50%;
+    }
+}
+
+.btn {
+    background: var(--background, var(--white-1));
+    color: var(--color, var(--viridian-green));
+    font-weight: var(--fw-700);
+    width: max-content;
+    padding: 10px 25px;
+    border: 2px solid var(--border-color, var(--white-1));
+    border-radius: var(--radius-6);
+}
+
+.btnheader{
+    width: clamp(8rem, 30vw, 12rem);
+    padding: clamp(0.1rem, 5vw, 0.2rem) 0;
+    text-align: center;
+    margin: 10px 5px 10px 0px;
+    transition: all 0.2s ease-in-out;
+    font-size: var(--fs-5);
+}
+
+.btn-secondary:is(:hover, :focus) {
+    --background: transparent;
+    --color: var(--white-1);
+}
+
+.user-infor,
+.logout-button {
+    display: none;
+}
+
+.addMethod{
+    position: fixed;
+    bottom: 1rem;
+    right: 1.3rem;
+    background: var(--viridian-green);
+    color: var(--white-1);
+    font-size: 2rem;
+    font-weight: 800;
+    width: 4rem;
+    height: 4rem;
+    border-radius: var(--radius-6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 0.3s ease-in-out;
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(-15px);
+}
+/* reponsive */
+
+@media (min-width: 992px){
+    .container {
+        max-width: 980px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .list-container{
+        width: 90%;
+    }
+    .container {
+        max-width: 1150px;
+    }
+}
+
+article{
+    margin: 10rem 0;
+}
+h1{
+    text-align: center;
+    font-size: clamp(2rem, 5vw, 3rem);
+}
+.th{
+    text-align: center;
+    padding: 0.5rem;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(255, 244, 171);
+}
+
+.td{
+    box-sizing: border-box;
+    padding: 0.5rem;
+    border: 1px solid rgb(255, 255, 255);
+    word-break: break-all;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 10rem;
+}
+
+.td::-webkit-scrollbar-track
+{   
+    border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+.td::-webkit-scrollbar
+{   
+    
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+.td::-webkit-scrollbar-thumb
+{   
+    border-radius: 10px;
+	background-color: #F90;	
+	background-image: -webkit-linear-gradient(45deg,
+	                                          rgba(255, 255, 255, .2) 25%,
+											  transparent 25%,
+											  transparent 50%,
+											  rgba(255, 255, 255, .2) 50%,
+											  rgba(255, 255, 255, .2) 75%,
+											  transparent 75%,
+											  transparent)
+}
+
+.tr:nth-child(even){
+    background-color: rgb(255, 249, 218);
+}
+.tr:nth-child(odd){
+    background-color: rgb(250, 250, 250);
+}
+
+.btn-edit{
+    font-size: clamp(1rem, 5vw, 1.8rem);
+    transition: all 0.2s ease-in-out;
+    text-align: center;
+    border: none;
+    padding: 0 0.2rem;
+    margin: 0 auto;
+    color: rgb(37, 37, 37);
+}
+
+.btn-delete{
+    font-size: clamp(1.2rem, 5vw, 2.2rem);
+    transition: all 0.2s ease-in-out;
+    text-align: center;
+    border: none;
+    padding: 0 0.2rem;
+    margin: 0 auto;
+    color: rgb(37, 37, 37);
+}
+
+.btn-edit:hover{
+    color: #008ab0;
+}
+.btn-delete:hover{
+    color: #ce0000;
+}
